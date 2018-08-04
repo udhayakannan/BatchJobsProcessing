@@ -1,0 +1,4366 @@
+DATA FROM JOB:,SAK454A,JOBNO:,JOB18537,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.28                                                                                  
+TOTAL TCB CPU TIME=,0.22,
+TOTAL ELAPSED TIME=,2.8,
+
+DATA FROM JOB:,SAK454B,JOBNO:,JOB18538,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.28                                                                                  
+TOTAL TCB CPU TIME=,0.23,
+TOTAL ELAPSED TIME=,2.8,
+
+DATA FROM JOB:,SAK454C,JOBNO:,JOB18539,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.28                                                                                  
+TOTAL TCB CPU TIME=,0.23,
+TOTAL ELAPSED TIME=,2.8,
+
+DATA FROM JOB:,SAK454D,JOBNO:,JOB18540,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.28                                                                                  
+TOTAL TCB CPU TIME=,0.23,
+TOTAL ELAPSED TIME=,2.8,
+
+DATA FROM JOB:,WFK035EC,JOBNO:,JOB18668                                                                                              ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.20.01                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,210,
+
+DATA FROM JOB:,FSK028A,JOBNO:,JOB18755,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.28.14                                                                                  
+TOTAL TCB CPU TIME=,0.26,
+TOTAL ELAPSED TIME=,8.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ NBR OF FETCHES ON FSTT_OH_RCPT_AUD          =,81,
+ NBR OF TSKST SELECTS                        =,162,
+ NBR OF TSKST ITM/LOC UPDATES                =,76,
+ NBR OF TSKST STR 000 UPDATES                =,81,
+ NBR OF TSKST INSERTS                        =,5,
+ NBR OF FSTT_OH_RCPT_AUD UPDATES TO STATUS C =,86,
+ NBR OF TSKST SELECTS                       =,103818,
+ NBR OF TSKST ITM/LOC UPDATES               =,51388,
+ NBR OF TSKST STR 000 UPDATES               =,51909,
+ NBR OF TSKST INSERTS                       =,521,
+ NBR OF TSKST SELECTS                       =,35421,
+ NBR OF TSKST ITM/LOC UPDATES               =,21328,
+ NBR OF TSKST STR 000 UPDATES               =,14012,
+ NBR OF TSKST INSERTS                       =,81,
+ TOT NBR OF TSKST SELECTS         =,139401,
+ TOT NBR OF TSKST ITM/LOC UPDATES =,72792,
+ TOT NBR OF TSKST STR 000 UPDATES =,66002,
+
+DATA FROM JOB:,FSK028B,JOBNO:,JOB18756,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.28.14                                                                                  
+TOTAL TCB CPU TIME=,0.27,
+TOTAL ELAPSED TIME=,8.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ NBR OF FETCHES ON FSTT_OH_RCPT_AUD          =,49,
+ NBR OF TSKST SELECTS                        =,98,
+ NBR OF TSKST ITM/LOC UPDATES                =,44,
+ NBR OF TSKST STR 000 UPDATES                =,49,
+ NBR OF TSKST INSERTS                        =,5,
+ NBR OF FSTT_OH_RCPT_AUD UPDATES TO STATUS C =,49,
+ NBR OF TSKST SELECTS                       =,100544,
+ NBR OF TSKST ITM/LOC UPDATES               =,49699,
+ NBR OF TSKST STR 000 UPDATES               =,50272,
+ NBR OF TSKST INSERTS                       =,573,
+ NBR OF TSKST SELECTS                       =,40966,
+ NBR OF TSKST ITM/LOC UPDATES               =,24708,
+ NBR OF TSKST STR 000 UPDATES               =,16179,
+ NBR OF TSKST INSERTS                       =,79,
+ TOT NBR OF TSKST SELECTS         =,141608,
+ TOT NBR OF TSKST ITM/LOC UPDATES =,74451,
+ TOT NBR OF TSKST STR 000 UPDATES =,66500,
+
+DATA FROM JOB:,FSK028C,JOBNO:,JOB18757,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.28.14                                                                                  
+TOTAL TCB CPU TIME=,0.24,
+TOTAL ELAPSED TIME=,7.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ NBR OF FETCHES ON FSTT_OH_RCPT_AUD          =,653,
+ NBR OF TSKST SELECTS                        =,1306,
+ NBR OF TSKST ITM/LOC UPDATES                =,646,
+ NBR OF TSKST STR 000 UPDATES                =,653,
+ NBR OF TSKST INSERTS                        =,7,
+ NBR OF FSTT_OH_RCPT_AUD UPDATES TO STATUS C =,653,
+ NBR OF TSKST SELECTS                       =,90678,
+ NBR OF TSKST ITM/LOC UPDATES               =,44989,
+ NBR OF TSKST STR 000 UPDATES               =,45339,
+ NBR OF TSKST INSERTS                       =,350,
+ NBR OF TSKST SELECTS                       =,37666,
+ NBR OF TSKST ITM/LOC UPDATES               =,23118,
+ NBR OF TSKST STR 000 UPDATES               =,14449,
+ NBR OF TSKST INSERTS                       =,99,
+ TOT NBR OF TSKST SELECTS         =,129650,
+ TOT NBR OF TSKST ITM/LOC UPDATES =,68753,
+ TOT NBR OF TSKST STR 000 UPDATES =,60441,
+
+DATA FROM JOB:,FSK028D,JOBNO:,JOB18758,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.28.14                                                                                  
+TOTAL TCB CPU TIME=,0.28,
+TOTAL ELAPSED TIME=,10.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ NBR OF FETCHES ON FSTT_OH_RCPT_AUD          =,138,
+ NBR OF TSKST SELECTS                        =,276,
+ NBR OF TSKST ITM/LOC UPDATES                =,137,
+ NBR OF TSKST STR 000 UPDATES                =,138,
+ NBR OF TSKST INSERTS                        =,1,
+ NBR OF FSTT_OH_RCPT_AUD UPDATES TO STATUS C =,138,
+ NBR OF TSKST SELECTS                       =,95711,
+ NBR OF TSKST ITM/LOC UPDATES               =,47407,
+ NBR OF TSKST STR 000 UPDATES               =,47854,
+ NBR OF TSKST INSERTS                       =,447,
+ NBR OF TSKST SELECTS                       =,39536,
+ NBR OF TSKST ITM/LOC UPDATES               =,23570,
+ NBR OF TSKST STR 000 UPDATES               =,15888,
+ NBR OF TSKST INSERTS                       =,78,
+ TOT NBR OF TSKST SELECTS         =,135523,
+ TOT NBR OF TSKST ITM/LOC UPDATES =,71114,
+ TOT NBR OF TSKST STR 000 UPDATES =,63880,
+
+DATA FROM JOB:,FSK028E,JOBNO:,JOB18759,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.28.14                                                                                  
+TOTAL TCB CPU TIME=,0.29,
+TOTAL ELAPSED TIME=,10.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ NBR OF FETCHES ON FSTT_OH_RCPT_AUD          =,574,
+ NBR OF TSKST SELECTS                        =,1148,
+ NBR OF TSKST ITM/LOC UPDATES                =,571,
+ NBR OF TSKST STR 000 UPDATES                =,574,
+ NBR OF TSKST INSERTS                        =,3,
+ NBR OF FSTT_OH_RCPT_AUD UPDATES TO STATUS C =,574,
+ NBR OF TSKST SELECTS                       =,106616,
+ NBR OF TSKST ITM/LOC UPDATES               =,52794,
+ NBR OF TSKST STR 000 UPDATES               =,53307,
+ NBR OF TSKST INSERTS                       =,513,
+ NBR OF TSKST SELECTS                       =,38301,
+ NBR OF TSKST ITM/LOC UPDATES               =,23073,
+ NBR OF TSKST STR 000 UPDATES               =,15125,
+ NBR OF TSKST INSERTS                       =,103,
+ TOT NBR OF TSKST SELECTS         =,146065,
+ TOT NBR OF TSKST ITM/LOC UPDATES =,76438,
+ TOT NBR OF TSKST STR 000 UPDATES =,69006,
+
+DATA FROM JOB:,IMK131A,JOBNO:,JOB10894,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.01.15                                                                                  
+TOTAL TCB CPU TIME=,0.46,
+TOTAL ELAPSED TIME=,8.4,
+INPUT RECORDS READ:,332937,
+
+DATA FROM JOB:,IMK131B,JOBNO:,JOB25752,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.2,
+TOTAL ELAPSED TIME=,2,
+INPUT RECORDS READ:,1434659,
+
+DATA FROM JOB:,IMK131C,JOBNO:,JOB25753,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.2,
+TOTAL ELAPSED TIME=,2.1,
+INPUT RECORDS READ:,1437265,
+
+DATA FROM JOB:,IMK131D,JOBNO:,JOB25751,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.2,
+TOTAL ELAPSED TIME=,2.2,
+INPUT RECORDS READ:,1482959,
+
+DATA FROM JOB:,IMK131E,JOBNO:,JOB25754,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.21,
+TOTAL ELAPSED TIME=,2.4,
+INPUT RECORDS READ:,1457543,
+
+DATA FROM JOB:,IMK131F,JOBNO:,JOB25755,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.18,
+TOTAL ELAPSED TIME=,2.1,
+INPUT RECORDS READ:,1322997,
+
+DATA FROM JOB:,IMK135A,JOBNO:,JOB10980,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.10.08                                                                                  
+TOTAL TCB CPU TIME=,0.14,
+TOTAL ELAPSED TIME=,1.3,
+INPUT RECORDS READ:,332937,
+
+DATA FROM JOB:,IMK135B,JOBNO:,JOB25782,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.25.27                                                                                  
+TOTAL TCB CPU TIME=,0.48,
+TOTAL ELAPSED TIME=,4.6,
+INPUT RECORDS READ:,2656571,
+
+DATA FROM JOB:,IMK135C,JOBNO:,JOB25779,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.25.27                                                                                  
+TOTAL TCB CPU TIME=,0.14,
+TOTAL ELAPSED TIME=,1,
+INPUT RECORDS READ:,1711553,
+
+DATA FROM JOB:,IMK135D,JOBNO:,JOB25781,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.25.27                                                                                  
+TOTAL TCB CPU TIME=,0.31,
+TOTAL ELAPSED TIME=,3,
+INPUT RECORDS READ:,1442233,
+
+DATA FROM JOB:,IMK135E,JOBNO:,JOB25780,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.25.27                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,0.2,
+INPUT RECORDS READ:,231127,
+
+DATA FROM JOB:,IMK135F,JOBNO:,JOB25783,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.25.27                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+INPUT RECORDS READ:,0,
+
+DATA FROM JOB:,INK300A,JOBNO:,JOB25343,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.00.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0           ,
+
+DATA FROM JOB:,INK300B,JOBNO:,JOB25342,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.00.59                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0           ,
+
+DATA FROM JOB:,INK300C,JOBNO:,JOB25346,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.00.59                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0           ,
+
+DATA FROM JOB:,INK300D,JOBNO:,JOB25344,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.00.59                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0           ,
+
+DATA FROM JOB:,INK300E,JOBNO:,JOB25347,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.00.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0           ,
+
+DATA FROM JOB:,INK300F,JOBNO:,JOB25345,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.00.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0           ,
+
+DATA FROM JOB:,INK308A,JOBNO:,JOB25392,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.01.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK308B,JOBNO:,JOB25393,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.01.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK308C,JOBNO:,JOB25391,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.01.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK308D,JOBNO:,JOB25394,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.01.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK308E,JOBNO:,JOB25395,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.01.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK308F,JOBNO:,JOB25396,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.01.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK362A,JOBNO:,JOB28018,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.45                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK362B,JOBNO:,JOB28019,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.45                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK362C,JOBNO:,JOB28020,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK362D,JOBNO:,JOB28021,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK362E,JOBNO:,JOB28022,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK362F,JOBNO:,JOB28023,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.45                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK366A,JOBNO:,JOB28035,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.59                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK366B,JOBNO:,JOB28036,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.54                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK366C,JOBNO:,JOB28037,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.00.54                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK366D,JOBNO:,JOB28038,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.01.01                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK366E,JOBNO:,JOB28039,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.01.01                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK366F,JOBNO:,JOB28040,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,12.01.07                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,POK961A,JOBNO:,JOB20945,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.30.40                                                                                  
+TOTAL TCB CPU TIME=,2.13,
+TOTAL ELAPSED TIME=,44.8,
+
+DATA FROM JOB:,POK962A,JOBNO:,JOB21305,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,04.15.30                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,POK963A,JOBNO:,JOB20936,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.30.18                                                                                  
+TOTAL TCB CPU TIME=,0.08,
+TOTAL ELAPSED TIME=,0.3,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,POK964A,JOBNO:,JOB21306,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,04.15.30                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK441,JOBNO:,JOB12702 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,16.00.05                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,ARK442,JOBNO:,JOB13429 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,17.00.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK443,JOBNO:,JOB16208 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.50.51                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,115,
+
+DATA FROM JOB:,ARK444,JOBNO:,JOB18570 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.11.10                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,6.9,
+NUMBER OF RECORDS PROCESSED WAS,9,
+NUMBER OF RECORDS PROCESSED WAS,9,
+
+DATA FROM JOB:,ARK445,JOBNO:,JOB16218 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.51.11                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,9,
+NUMBER OF RECORDS PROCESSED WAS,9,
+
+DATA FROM JOB:,ARK446,JOBNO:,JOB21499 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,04.45.28                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK447,JOBNO:,JOB12422 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,15.30.01                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK475,JOBNO:,JOB22007 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.20.46                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,ARK476,JOBNO:,JOB13811 ,
+EXECUTED ON DATE:,WEDNESDAY,27 JUN 2018,AT :,17.00.12                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,3,
+ RECORDS READ    0000122978                  
+ RECORDS READ    0000122978                  
+
+DATA FROM JOB:,ARK477,JOBNO:,JOB20904 ,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,13.30.05                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,2.5,
+NUMBER OF RECORDS PROCESSED WAS,13,
+NUMBER OF RECORDS PROCESSED WAS,13,
+
+DATA FROM JOB:,ARK479,JOBNO:,JOB21011 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.46.14                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,ARK480,JOBNO:,JOB10096 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,12.00.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK501,JOBNO:,JOB00263 ,
+EXECUTED ON DATE:,SUNDAY,01 JUL 2018,AT :,08.38.45                                                                                  
+TOTAL TCB CPU TIME=,85.01,
+TOTAL ELAPSED TIME=,2757.8,
+ RECORDS READ   :,91765628,
+
+DATA FROM JOB:,ARK506,JOBNO:,JOB13434 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,17.00.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK510,JOBNO:,JOB35148 ,
+EXECUTED ON DATE:,SUNDAY,08 JUL 2018,AT :,01.23.28                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,116,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,ARK515,JOBNO:,JOB35150 ,
+EXECUTED ON DATE:,SUNDAY,08 JUL 2018,AT :,01.23.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,116,
+
+DATA FROM JOB:,ARK521,JOBNO:,JOB16790 ,
+EXECUTED ON DATE:,THURSDAY, 08 FEB 2018,AT :,06.51.32                                                                                  
+TOTAL TCB CPU TIME=,8.2,
+TOTAL ELAPSED TIME=,134,
+ RECORDS READ   :,795897450,
+
+DATA FROM JOB:,ARK531,JOBNO:,JOB39436 ,
+EXECUTED ON DATE:,SUNDAY,01 JUL 2018,AT :,07.37.39                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.2,
+ RECORDS WRITTEN              =,207142,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,ARK535,JOBNO:,JOB21470 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,04.41.53                                                                                  
+TOTAL TCB CPU TIME=,1.83,
+TOTAL ELAPSED TIME=,11,
+
+DATA FROM JOB:,ARK036,JOBNO:,JOB19533 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.18.47                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK037,JOBNO:,JOB19535 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.18.49                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,ARK038,JOBNO:,JOB20717 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.03.22                                                                                  
+TOTAL TCB CPU TIME=,0.07,
+TOTAL ELAPSED TIME=,0.2,
+
+DATA FROM JOB:,ARK039,JOBNO:,JOB19019 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.43.46                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.5,
+
+DATA FROM JOB:,ARK040,JOBNO:,JOB19534 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.18.49                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,ARK042,JOBNO:,JOB20428 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.37.51                                                                                  
+TOTAL TCB CPU TIME=,27.68,
+TOTAL ELAPSED TIME=,44.5,
+
+DATA FROM JOB:,ARK043,JOBNO:,JOB20695 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.02.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,ARK044,JOBNO:,JOB19554 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.20.56                                                                                  
+TOTAL TCB CPU TIME=,0.86,
+TOTAL ELAPSED TIME=,4,
+
+DATA FROM JOB:,ARK054,JOBNO:,JOB16042 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.16.45                                                                                  
+TOTAL TCB CPU TIME=,1.58,
+TOTAL ELAPSED TIME=,6.4,
+
+DATA FROM JOB:,ARK057,JOBNO:,JOB15995 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.07.41                                                                                  
+TOTAL TCB CPU TIME=,0.06,
+TOTAL ELAPSED TIME=,2.1,
+ RECORDS READ   :,4913018,
+
+DATA FROM JOB:,ARK059,JOBNO:,JOB33826 ,
+EXECUTED ON DATE:,TUESDAY,  03 JUL 2018,AT :,06.36.37                                                                                  
+TOTAL TCB CPU TIME=,55.74,
+TOTAL ELAPSED TIME=,137.6,
+
+DATA FROM JOB:,ARK061,JOBNO:,JOB16029 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.14.13                                                                                  
+TOTAL TCB CPU TIME=,0.25,
+TOTAL ELAPSED TIME=,5.4,
+
+DATA FROM JOB:,ARK062,JOBNO:,JOB31884 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,06.18.47                                                                                  
+TOTAL TCB CPU TIME=,1.13,
+TOTAL ELAPSED TIME=,73.1,
+ RECORDS READ   :,11121533,
+
+DATA FROM JOB:,ARK064,JOBNO:,JOB15183 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.39.54                                                                                  
+TOTAL TCB CPU TIME=,0.36,
+TOTAL ELAPSED TIME=,3.1,
+
+DATA FROM JOB:,ARK068,JOBNO:,JOB13595 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,17.06.21                                                                                  
+TOTAL TCB CPU TIME=,0.19,
+TOTAL ELAPSED TIME=,11.7,
+
+DATA FROM JOB:,ARK070,JOBNO:,JOB10953 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.06.03                                                                                  
+TOTAL TCB CPU TIME=,3.48,
+TOTAL ELAPSED TIME=,8.5,
+
+DATA FROM JOB:,ARK076,JOBNO:,JOB15860 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.56.51                                                                                  
+TOTAL TCB CPU TIME=,4.01,
+TOTAL ELAPSED TIME=,19.8,
+
+DATA FROM JOB:,ARK081,JOBNO:,JOB04741 ,
+EXECUTED ON DATE:,THURSDAY, 12 APR 2018,AT :,00.29.35                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.8,
+NUMBER OF RECORDS PROCESSED WAS,3,
+
+DATA FROM JOB:,ARK305,JOBNO:,JOB11681 ,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,03.00.46                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.3,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MFK032,JOBNO:,JOB20557 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.56.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,MFK033,JOBNO:,JOB20977 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.39.40                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,MFK034,JOBNO:,JOB05934 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,05.30.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,835,
+
+DATA FROM JOB:,MFK035,JOBNO:,JOB05414 ,
+EXECUTED ON DATE:,TUESDAY,  10 JUL 2018,AT :,18.00.14                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,MFK105,JOBNO:,JOB05929 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,05.30.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,MFK121,JOBNO:,JOB05354 ,
+EXECUTED ON DATE:,TUESDAY,  10 JUL 2018,AT :,18.00.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK091 ,JOBNO:,JOB01908,
+EXECUTED ON DATE:,TUESDAY,  10 JUL 2018,AT :,14.00.03                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,ARK500 ,JOBNO:,JOB11714,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,03.01.07                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,RBK030 ,JOBNO:,JOB15414,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.23                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,PCK017,JOBNO:,JOB16473 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22:04:47
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,INK413,JOBNO:,JOB08834 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.54.15                                                                                  
+TOTAL TCB CPU TIME=,0.31,
+TOTAL ELAPSED TIME=,1.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,INK414,JOBNO:,JOB08837 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.54.46                                                                                  
+TOTAL TCB CPU TIME=,0.16,
+TOTAL ELAPSED TIME=,1.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,INK416,JOBNO:,JOB08829 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.53.58                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,1.3,
+
+DATA FROM JOB:,MLK220 ,JOBNO:,JOB04805 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.22.30                                                                                  
+TOTAL TCB CPU TIME=,11.95,
+TOTAL ELAPSED TIME=,36.9,
+ TMNSCLS ROWS FETCHED =,7282,
+ EXTRACT RECORDS WRITTEN =,7282992,
+NUMBER OF RECORDS PROCESSED WAS,7,
+
+DATA FROM JOB:,PEK115 ,JOBNO:,JOB30264 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,03.00.05                                                                                  
+TOTAL TCB CPU TIME=,3.45,
+TOTAL ELAPSED TIME=,112.3,
+RECORDS READ .....,0000007818              
+RECORDS READ .....,0000007818              
+
+DATA FROM JOB:,PXK007 ,JOBNO:,JOB19044 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.47.00                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+ NBR OF RECORDS WRITTEN  -,0,
+ RECORDS READ       0000032018               
+
+DATA FROM JOB:,TFK030 ,JOBNO:,JOB18445 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.05.53                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.4,
+ *INPUT RECORDS READ.........:,2410,
+ * DETAIL RECORDS WRITTEN.....:,2410,
+ * SUMMARY RECORDS WRITTEN....:,8,
+ *INPUT RECORDS READ.........:,5,
+ * DETAIL RECORDS WRITTEN.....:,5,
+ * SUMMARY RECORDS WRITTEN....:,2,
+ *INPUT RECORDS READ.........:,2410,
+ * DETAIL RECORDS WRITTEN.....:,2410,
+ * SUMMARY RECORDS WRITTEN....:,8,
+ *INPUT RECORDS READ.........:,0,
+ * DETAIL RECORDS WRITTEN.....:,0,
+ * SUMMARY RECORDS WRITTEN....:,0,
+
+DATA FROM JOB:,BCK021 ,JOBNO:,JOB17434 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,23.00.07                                                                                  
+TOTAL TCB CPU TIME=,0.12,
+TOTAL ELAPSED TIME=,0.2,
+
+DATA FROM JOB:,EIK009,JOBNO:,JOB16595 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK012,JOBNO:,JOB16657 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.48                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK013,JOBNO:,JOB16661 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.49                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK014,JOBNO:,JOB16663 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.56                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK015,JOBNO:,JOB09421 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,10.47.25                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ TOTAL INPUT PS HR ASSOC RECORDS READ  =,129080,
+ TOTAL OUTPUT HR ASSOC RECORDS WRITTEN =,129080,
+
+DATA FROM JOB:,EIK016,JOBNO:,JOB16620 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK017,JOBNO:,JOB16626 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.38                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK018,JOBNO:,JOB16621 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK019,JOBNO:,JOB16622 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.36                                                                                  
+TOTAL TCB CPU TIME=,5.97,
+TOTAL ELAPSED TIME=,45.9,
+TOTAL RECORDS READ        :,8015482,
+TOTAL RECORDS WRITTEN     :,8015482,
+
+DATA FROM JOB:,EIK020,JOBNO:,JOB16623 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.36                                                                                  
+TOTAL TCB CPU TIME=,0.28,
+TOTAL ELAPSED TIME=,1.4,
+
+DATA FROM JOB:,EIK022,JOBNO:,JOB16628 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.40                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK024,JOBNO:,JOB16629 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK025,JOBNO:,JOB16625 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK026,JOBNO:,JOB16630 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK027,JOBNO:,JOB16631 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK028,JOBNO:,JOB16654 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.46                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK053,JOBNO:,JOB18682 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.21.06                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0.8,
+NUMBER OF RECORDS PROCESSED WAS,778,
+ TOTALINPUT RECORDS READ     =,7789456,
+ TOTAL OUTPUT RECORDS WRITTEN =,7789456,
+ TOTAL ERROR RECORDS WRITTEN  =,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EIK054,JOBNO:,JOB18683 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.21.55                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.9,
+
+DATA FROM JOB:,EIK080,JOBNO:,JOB09422 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,10.47.26                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK189,JOBNO:,JOB03665 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,01.34.17                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.7,
+
+DATA FROM JOB:,EIK193,JOBNO:,JOB04661 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.03.39                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,5.1,
+NUMBER OF RECORDS PROCESSED WAS,483,
+NUMBER OF RECORDS PROCESSED WAS,249,
+
+DATA FROM JOB:,EIK194,JOBNO:,JOB00335 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,20.00.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK196,JOBNO:,JOB04214 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.22.35                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,1.7,
+NUMBER OF RECORDS PROCESSED WAS,320,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EIK198,JOBNO:,JOB04379 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.40.30                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.5,
+NUMBER OF RECORDS PROCESSED WAS,101,
+
+DATA FROM JOB:,EIK400,JOBNO:,JOB16603 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.47                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,28,
+
+DATA FROM JOB:,EIK401,JOBNO:,JOB16605 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.52                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK405,JOBNO:,JOB17315 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.54.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,60,
+
+DATA FROM JOB:,EIK406,JOBNO:,JOB17319 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.54.34                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,1.6,
+
+DATA FROM JOB:,EIK410,JOBNO:,JOB14614 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.00.05                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,6,
+
+DATA FROM JOB:,EIK606,JOBNO:,JOB19638 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.30.18                                                                                  
+TOTAL TCB CPU TIME=,0.26,
+TOTAL ELAPSED TIME=,1.9,
+  PO ON-ORDER RECORDS READ:,34676951,
+  EI ON-ORDER RECORDS WRITTEN:,34676951,
+  EI ON-,ORDERRECORDSWRITTE                  ,
+
+DATA FROM JOB:,EIK607,JOBNO:,JOB19676 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.32.15                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,3.9,
+
+DATA FROM JOB:,EIK626,JOBNO:,JOB15072 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.25.29                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK632,JOBNO:,JOB15075 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.25.35                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+
+DATA FROM JOB:,EIK633,JOBNO:,JOB16664 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.56                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,EIK657,JOBNO:,JOB14740 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.00.42                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK658,JOBNO:,JOB14744 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.00.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,MFK003,JOBNO:,JOB20552 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.56.38                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,MFK004,JOBNO:,JOB20395 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.30.02                                                                                  
+TOTAL TCB CPU TIME=,0.07,
+TOTAL ELAPSED TIME=,0.6,
+
+DATA FROM JOB:,MFK030,JOBNO:,JOB20553 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.56.40                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,MFK031,JOBNO:,JOB20556 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.56.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK026,JOBNO:,JOB16602 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.45                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK030,JOBNO:,JOB14101 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,18.00.30                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK032,JOBNO:,JOB15071 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.25.29                                                                                  
+TOTAL TCB CPU TIME=,6.38,
+TOTAL ELAPSED TIME=,53.9,
+TOTAL RECORDS READ        :,8015482,
+TOTAL RECORDS WRITTEN     :,8015482,
+
+DATA FROM JOB:,CWK033,JOBNO:,JOB14983 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.12.56                                                                                  
+TOTAL TCB CPU TIME=,0.27,
+TOTAL ELAPSED TIME=,1.1,
+
+DATA FROM JOB:,CWK034,JOBNO:,JOB16604 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.51                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK035,JOBNO:,JOB16607 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.52                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK036,JOBNO:,JOB16610 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.59                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK043,JOBNO:,JOB16612 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,35,
+
+DATA FROM JOB:,CWK044,JOBNO:,JOB16613 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.08.05                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.5,
+
+DATA FROM JOB:,CWK100,JOBNO:,JOB16271 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.00.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,47,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,CWK105,JOBNO:,JOB15548 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.10.46                                                                                  
+TOTAL TCB CPU TIME=,8.39,
+TOTAL ELAPSED TIME=,29.7,
+NUMBER OF RECORDS PROCESSED WAS,19,
+
+DATA FROM JOB:,CWK106,JOBNO:,JOB15809 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.40.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,88.4,
+
+DATA FROM JOB:,CWK107,JOBNO:,JOB14670 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.00.25                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK108,JOBNO:,JOB14675 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.00.29                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK134,JOBNO:,JOB19637 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.30.18                                                                                  
+TOTAL TCB CPU TIME=,0.36,
+TOTAL ELAPSED TIME=,1.6,
+  PO ON-ORDER RECORDS READ:,34676951,
+  CW ON-ORDER RECORDS WRITTEN:,34676951,
+  CW ON-,ORDERRECORDSWRITTE                  ,
+
+DATA FROM JOB:,CWK135,JOBNO:,JOB19658 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.31.55                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,1.6,
+
+DATA FROM JOB:,CWK137,JOBNO:,JOB03478 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,01.20.20                                                                                  
+TOTAL TCB CPU TIME=,0.31,
+TOTAL ELAPSED TIME=,1.2,
+
+DATA FROM JOB:,CWK138,JOBNO:,JOB03490 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,01.21.34                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,1.6,
+
+DATA FROM JOB:,CWK218,JOBNO:,JOB16551 ,
+EXECUTED ON DATE:,MONDAY,09 JUL 2018,AT :,09.00.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,16,
+
+DATA FROM JOB:,CWK249,JOBNO:,JOB20558 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.56.45                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK413,JOBNO:,JOB16272 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.00.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK414,JOBNO:,JOB16273 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.00.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK427,JOBNO:,JOB16567 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.31                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,CWK615,JOBNO:,JOB08089 ,
+EXECUTED ON DATE:,TUESDAY,  10 JUL 2018,AT :,22.00.19                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,CWK762,JOBNO:,JOB16996 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.30.26                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EIKJ75,JOBNO:,JOB04357 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.39.53                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIKL93,JOBNO:,JOB16975 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.30.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.3,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EIKL94,JOBNO:,JOB16974 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.30.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EIKL95,JOBNO:,JOB16976 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.30.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EIKL96,JOBNO:,JOB17423 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,23.00.05                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EIKL97,JOBNO:,JOB16977 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.30.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EIK001,JOBNO:,JOB16537 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.21                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK002,JOBNO:,JOB16542 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.23                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK003,JOBNO:,JOB16544 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.24                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK004,JOBNO:,JOB16546 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.28                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK005,JOBNO:,JOB16564 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.31                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK006,JOBNO:,JOB16573 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK007,JOBNO:,JOB16589 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EIK008,JOBNO:,JOB16593 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,TFK505,JOBNO:,JOB34543 ,
+EXECUTED ON DATE:,SUNDAY,08 JUL 2018,AT :,01.00.04                                                                                  
+TOTAL TCB CPU TIME=,1.57,
+TOTAL ELAPSED TIME=,3,
+
+DATA FROM JOB:,TFK510,JOBNO:,JOB18191 ,
+EXECUTED ON DATE:,MONDAY,18 JUN 2018,AT :,01.00.04                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,3.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK515,JOBNO:,JOB01071 ,
+EXECUTED ON DATE:,SUNDAY,08 JUL 2018,AT :,11.00.03                                                                                  
+TOTAL TCB CPU TIME=,0.27,
+TOTAL ELAPSED TIME=,8.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK520,JOBNO:,JOB34858 ,
+EXECUTED ON DATE:,SUNDAY,08 JUL 2018,AT :,01.07.19                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.8,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK550,JOBNO:,JOB18192 ,
+EXECUTED ON DATE:,MONDAY,18 JUN 2018,AT :,01.00.04                                                                                  
+TOTAL TCB CPU TIME=,0.12,
+TOTAL ELAPSED TIME=,1.8,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK555,JOBNO:,JOB18482 ,
+EXECUTED ON DATE:,MONDAY,18 JUN 2018,AT :,01.15.01                                                                                  
+TOTAL TCB CPU TIME=,0.15,
+TOTAL ELAPSED TIME=,2.4,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK560,JOBNO:,JOB18643 ,
+EXECUTED ON DATE:,MONDAY,18 JUN 2018,AT :,01.30.02                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK565,JOBNO:,JOB34747 ,
+EXECUTED ON DATE:,SUNDAY,08 JUL 2018,AT :,01.03.09                                                                                  
+TOTAL TCB CPU TIME=,0.21,
+TOTAL ELAPSED TIME=,9.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK570,JOBNO:,JOB25600 ,
+EXECUTED ON DATE:,SUNDAY,24 JUN 2018,AT :,08.05.09                                                                                  
+TOTAL TCB CPU TIME=,2.61,
+TOTAL ELAPSED TIME=,28.9,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ RECORDS READ    =,192407,
+ RECORDS WRITTEN =,192407,
+ RECORDS READ   =,192407,
+
+DATA FROM JOB:,TFK905,JOBNO:,JOB18825 ,
+EXECUTED ON DATE:,SUNDAY,04 FEB 2018,AT :,18.00.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,BCK020,JOBNO:,JOB16511 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.06.55                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,BCK030,JOBNO:,JOB17443 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,23.00.27                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.3,
+
+DATA FROM JOB:,BCK550,JOBNO:,JOB06365 ,
+EXECUTED ON DATE:,TUESDAY,  10 JUL 2018,AT :,19.06.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,21,
+NUMBER OF RECORDS PROCESSED WAS,473,
+
+DATA FROM JOB:,BCK800,JOBNO:,JOB29667 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,23.00.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,116,
+NUMBER OF RECORDS PROCESSED WAS,157,
+
+DATA FROM JOB:,LTK012,JOBNO:,JOB08158 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.00.03                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,3.1,
+NUMBER OF RECORDS PROCESSED WAS,274,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,274,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,LTK067,JOBNO:,JOB07842 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,08.17.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,XSK360,JOBNO:,JOB10897 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.01.15                                                                                  
+TOTAL TCB CPU TIME=,0.78,
+TOTAL ELAPSED TIME=,22.9,
+
+DATA FROM JOB:,XSK361,JOBNO:,JOB25758 ,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.43,
+TOTAL ELAPSED TIME=,8.7,
+
+DATA FROM JOB:,XSK362,JOBNO:,JOB25759 ,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.46,
+TOTAL ELAPSED TIME=,9.1,
+
+DATA FROM JOB:,XSK363,JOBNO:,JOB25760 ,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.45,
+TOTAL ELAPSED TIME=,9,
+
+DATA FROM JOB:,XSK364,JOBNO:,JOB25761 ,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.49,
+TOTAL ELAPSED TIME=,9.4,
+
+DATA FROM JOB:,XSK365,JOBNO:,JOB25762 ,
+EXECUTED ON DATE:,THURSDAY, 05 JUL 2018,AT :,05.22.29                                                                                  
+TOTAL TCB CPU TIME=,0.43,
+TOTAL ELAPSED TIME=,8.5,
+
+DATA FROM JOB:,CWK001,JOBNO:,JOB16510 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.06.54                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK002,JOBNO:,JOB16514 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.06.55                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK003,JOBNO:,JOB16515 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.06.56                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK004,JOBNO:,JOB16516 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.06.58                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK005,JOBNO:,JOB16518 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.00                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK006,JOBNO:,JOB16522 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK007,JOBNO:,JOB16523 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK008,JOBNO:,JOB16528 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK009,JOBNO:,JOB16529 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.08                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK010,JOBNO:,JOB16530 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.09                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,26,
+
+DATA FROM JOB:,CWK011,JOBNO:,JOB16536 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.11                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK020,JOBNO:,JOB16565 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.31                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK021,JOBNO:,JOB16571 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK022,JOBNO:,JOB16582 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK023,JOBNO:,JOB16591 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK024,JOBNO:,JOB16594 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,CWK025,JOBNO:,JOB16599 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ICK089,JOBNO:,JOB19081 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.51.06                                                                                  
+TOTAL TCB CPU TIME=,1.35,
+TOTAL ELAPSED TIME=,2.1,
+
+DATA FROM JOB:,ICK090,JOBNO:,JOB19082 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.51.06                                                                                  
+TOTAL TCB CPU TIME=,0.39,
+TOTAL ELAPSED TIME=,2,
+
+DATA FROM JOB:,ICK091,JOBNO:,JOB19083 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.51.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ICK093,JOBNO:,JOB20579 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.00.04                                                                                  
+TOTAL TCB CPU TIME=,0.11,
+TOTAL ELAPSED TIME=,0.2,
+ **   COUNT STAT RECORDS READ  =,===>000018736**                                                                                            ,
+   COUNT STAT RECORDS REA,====>000018736**   ,
+ **  COUNT STUP  RECORDS READ  =,===>000006985**                                                                                            ,
+  COUNT STUP  RECORDS REA,====>000006985**   ,
+ **SKU LOC COUNT RECORDS READ  =,===>006610273**                                                                                            ,
+SKU LOC COUNT RECORDS REA,====>006610273**   ,
+ **LOC CNT  STAT RECORDS READ  =,===>000006985**                                                                                            ,
+LOC CNT  STAT RECORDS REA,====>000006985**   ,
+ ** LOC CNT SUM  RECORDS READ  =,===>000000001**                                                                                            ,
+ LOC CNT SUM  RECORDS REA,====>000000001**   ,
+
+DATA FROM JOB:,PEK151,JOBNO:,JOB05000 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.48.04                                                                                  
+TOTAL TCB CPU TIME=,0.35,
+TOTAL ELAPSED TIME=,7,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ TOTALNUMBER OF PRICE CHANGE RECORDS READ:,32729407,
+ TOTALNUMBER OF PRICE CHANGE RECORDS READ:,8014,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PEK412,JOBNO:,JOB30064 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,02.29.33                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,PEK551,JOBNO:,JOB19476 ,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,11.55.31                                                                                  
+TOTAL TCB CPU TIME=,3.24,
+TOTAL ELAPSED TIME=,42.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ TOTALNUMBER OF PRICE CHANGE RECORDS READ:,16930,
+ TOTALNUMBER OF PRICE CHANGE RECORDS READ:,1545,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,200,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PEK941,JOBNO:,JOB03251 ,
+EXECUTED ON DATE:,THURSDAY, 12 JUL 2018,AT :,15.34.37                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,20,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,PXK010,JOBNO:,JOB18922 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.38.55                                                                                  
+TOTAL TCB CPU TIME=,0.13,
+TOTAL ELAPSED TIME=,3.6,
+ TOTALINPUT RECORDS READ    :,0,
+ TOTAL OUTPUT RECORDS WRITTEN:,332362,
+ DSNU302I    197 00:42:33.29 DS,NURI         ,
+
+DATA FROM JOB:,PXK020,JOBNO:,JOB16286 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.00.05                                                                                  
+TOTAL TCB CPU TIME=,0.06,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,PXK087,JOBNO:,JOB18609 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.15.09                                                                                  
+TOTAL TCB CPU TIME=,1.02,
+TOTAL ELAPSED TIME=,7.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PXK088,JOBNO:,JOB18687 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.22.24                                                                                  
+TOTAL TCB CPU TIME=,0.06,
+TOTAL ELAPSED TIME=,3.5,
+NUMBER OF RECORDS PROCESSED WAS,124,
+
+DATA FROM JOB:,PXK302,JOBNO:,JOB22492 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.00.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,PXK372,JOBNO:,JOB19008 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.43.13                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+ RECORDS READ         0000000000             
+ RECORDS READ         0000000000             
+
+DATA FROM JOB:,PXK374,JOBNO:,JOB16287 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.00.05                                                                                  
+TOTAL TCB CPU TIME=,0.61,
+TOTAL ELAPSED TIME=,1.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,37,
+
+DATA FROM JOB:,PXK400,JOBNO:,JOB19010 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.43.26                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,0.7,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,28,
+NUMBER OF RECORDS PROCESSED WAS,331,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS READ   :,0,
+NUMBER OF RECORDS WRITTEN:,0,
+ RECORDS READ > 0   000032018                
+ RECORDS READ < 1   000001132                
+ RECORDS READ < 1   000001132                
+ RECORDS READ       0000032018               
+ RECORDS READ       0000032018               
+
+DATA FROM JOB:,SFK035,JOBNO:,JOB18526 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.03                                                                                  
+TOTAL TCB CPU TIME=,0.26,
+TOTAL ELAPSED TIME=,3.4,
+ * RECORDS READ......:,4225577,
+ * OUTPUT RECORDS WRITTEN...:,4225577,
+ * RECORDS READ......:,3670491,
+ * ITEM RECORDS WRITTEN...:,646696,
+ * DEPT RECORDS WRITTEN...:,1994395,
+
+DATA FROM JOB:,SFK045,JOBNO:,JOB18578 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.12.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,SFK046,JOBNO:,JOB18626 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.17.33                                                                                  
+TOTAL TCB CPU TIME=,1.96,
+TOTAL ELAPSED TIME=,24.7,
+ * RECORDS READ......:,11583936,
+ * OUTPUT RECORDS WRITTEN...:,11583936,
+
+DATA FROM JOB:,SFK047,JOBNO:,JOB18581 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.12.41                                                                                  
+TOTAL TCB CPU TIME=,0.13,
+TOTAL ELAPSED TIME=,5,
+ * RECORDS READ......:,610918,
+ * OUTPUT RECORDS WRITTEN...:,610918,
+
+DATA FROM JOB:,SFK048,JOBNO:,JOB18582 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.12.41                                                                                  
+TOTAL TCB CPU TIME=,2.22,
+TOTAL ELAPSED TIME=,4.8,
+
+DATA FROM JOB:,SFK049,JOBNO:,JOB18999 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.42.20                                                                                  
+TOTAL TCB CPU TIME=,0.46,
+TOTAL ELAPSED TIME=,14.9,
+ * RECORDS READ......:,11423843,
+ * OUTPUT RECORDS WRITTEN...:,11423843,
+
+DATA FROM JOB:,SFK051,JOBNO:,JOB18625 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.17.31                                                                                  
+TOTAL TCB CPU TIME=,0.07,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,SFK052,JOBNO:,JOB19145 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.59.23                                                                                  
+TOTAL TCB CPU TIME=,0.15,
+TOTAL ELAPSED TIME=,4.4,
+ * RECORDS READ......:,170776,
+ * OUTPUT RECORDS WRITTEN...:,170776,
+
+DATA FROM JOB:,TFK000,JOBNO:,JOB18205 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.01.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,TFK002,JOBNO:,JOB28285 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,00.01.16                                                                                  
+TOTAL TCB CPU TIME=,0.33,
+TOTAL ELAPSED TIME=,1.2,
+
+DATA FROM JOB:,TFK005,JOBNO:,JOB18337 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.01.28                                                                                  
+TOTAL TCB CPU TIME=,0.56,
+TOTAL ELAPSED TIME=,2,
+
+DATA FROM JOB:,TFK006,JOBNO:,JOB32586 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,07.20.08                                                                                  
+TOTAL TCB CPU TIME=,0.09,
+TOTAL ELAPSED TIME=,5.6,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ * RECORDS READ.........:,5633,
+ RECORDS READ    =,41366,
+ RECORDS WRITTEN =,41366,
+ RECORDS READ   =,41366,
+
+DATA FROM JOB:,TFK015,JOBNO:,JOB18602 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.15.01                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,3.4,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK020,JOBNO:,JOB18532 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.05                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,3.4,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK025,JOBNO:,JOB18400 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.03.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TFK026,JOBNO:,JOB19969 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.00.07                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ RECORDS READ    =,0,
+ RECORDS WRITTEN =,0,
+ RECORDS READ   =,0,
+ * RECORDS READ......:,0,
+ * OUTPUT RECORDS WRITTEN...:,0,
+ *INPUT RECORDS READ.........:,0,
+ * REPORT RECORDS WRITTEN.....:,0,
+
+DATA FROM JOB:,TFK027,JOBNO:,JOB18401 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.03.38                                                                                  
+TOTAL TCB CPU TIME=,0.16,
+TOTAL ELAPSED TIME=,2.1,
+ *INPUT RECORDS READ:,13839,
+ * RECORDS WRITTEN...:,13839,
+ *INPUT RECORDS READ:,13839,
+ * ML RECORDS WRITTEN:,13839,
+ * FS RECORDS WRITTEN:,27678,
+
+DATA FROM JOB:,TFK031,JOBNO:,JOB18458 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.06.21                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0.5,
+ *INPUT RECORDS READ:,0,
+ * RECORDS WRITTEN...:,0,
+ *INPUT RECORDS READ:,0,
+ * ML RECORDS WRITTEN:,0,
+ * FS RECORDS WRITTEN:,0,
+
+DATA FROM JOB:,TFK035,JOBNO:,JOB36684 ,
+EXECUTED ON DATE:,MONDAY,25 JUN 2018,AT :,00.06.57                                                                                  
+TOTAL TCB CPU TIME=,8.28,
+TOTAL ELAPSED TIME=,70.8,
+ DELETE RECORDS PROCESSED:00000,1046,
+
+DATA FROM JOB:,TFK100,JOBNO:,JOB02717 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,00.15.01                                                                                  
+TOTAL TCB CPU TIME=,0.22,
+TOTAL ELAPSED TIME=,8.4,
+
+DATA FROM JOB:,TFK110,JOBNO:,JOB03302 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,01.08.10                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,3.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,247,
+
+DATA FROM JOB:,EPK092,JOBNO:,JOB11281 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.46                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ **      EXTRACT RECORDS READ  =,===>000000000**                                                                                            ,
+      EXTRACT RECORDS REA,====>000000000**   ,
+
+DATA FROM JOB:,EPK093,JOBNO:,JOB11292 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.43.50                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ **      EXTRACT RECORDS READ  =,===>000010468**                                                                                            ,
+      EXTRACT RECORDS REA,====>000010468**   ,
+
+DATA FROM JOB:,EPK094,JOBNO:,JOB11290 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.43.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ **      EXTRACT RECORDS READ  =,===>000272274**                                                                                            ,
+      EXTRACT RECORDS REA,====>000272274**   ,
+
+DATA FROM JOB:,EPK300,JOBNO:,JOB23075 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.35.24                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK301,JOBNO:,JOB23071 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.35.24                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK302,JOBNO:,JOB23073 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.35.24                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK303,JOBNO:,JOB23070 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.35.24                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK304,JOBNO:,JOB23072 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.35.24                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK310,JOBNO:,JOB23074 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.35.24                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK318,JOBNO:,JOB12738 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,16.00.09                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EPK331,JOBNO:,JOB11263 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,EPK332,JOBNO:,JOB11074 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.24.10                                                                                  
+TOTAL TCB CPU TIME=,3.24,
+TOTAL ELAPSED TIME=,18.4,
+ RECORDS READ    =,129,
+ RECORDS WRITTEN =,129,
+ RECORDS READ =,129,
+ RECORDS READ    =,0,
+ RECORDS WRITTEN =,0,
+ RECORDS READ =,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EPK333,JOBNO:,JOB11265 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.38                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+  DRIVER RECORDS READ:,0,
+
+DATA FROM JOB:,EPK334,JOBNO:,JOB11266 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.38                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.2,
+    NUMBER OF OUTPUT RECORDS WRITTEN:,34147,
+          NUMBER OF EP122 RECORDS WRITTEN:,000000000-DDOUT0                                                                                ,
+          NUMBER OF EP122 RECORDS WRITTEN: 000000000 -,DDOUT01                                                                             ,
+     NUMBER OF SKU GLOBAL RECORDS WRITTEN:,000034083-DDOUT0                                                                                ,
+     NUMBER OF SKU GLOBAL RECORDS WRITTEN: 000034083 -,DDOUT02                                                                             ,
+
+DATA FROM JOB:,EPK335,JOBNO:,JOB11267 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.38                                                                                  
+TOTAL TCB CPU TIME=,1.35,
+TOTAL ELAPSED TIME=,3.4,
+
+DATA FROM JOB:,EPK336,JOBNO:,JOB11268 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.38                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF OUTPUT RECORDS WRITTEN:,0,
+     NUMBER OF EP074 RECORDS WRITTEN:,000000000-                                                                                           ,
+     NUMBER OF EP074 RECORDS WRITTEN:        000000000 -,DDOUT01                                                                           ,
+     NUMBER OF SKU FILE RECORDS WRITTEN:,000000000-DD                                                                                      ,
+     NUMBER OF SKU FILE RECORDS WRITTEN:     000000000 -,DDOUT02                                                                           ,
+             NUMBER OF DUMMY ADD SKU RECORDS WRITTEN:,0,
+          NUMBER OF DUMMY UPDATE SKU RECORDS WRITTEN:,0,
+     NUMBER OF SKU PRICG RECORDS WRITTEN:,000000000-DDO                                                                                    ,
+     NUMBER OF SKU PRICG RECORDS WRITTEN:    000000000 -,DDOUT03                                                                           ,
+           NBR OF DUMMY ADD SKU PRICG RECORDS WRITTEN:,0,
+
+DATA FROM JOB:,EPK348,JOBNO:,JOB10892 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.01.15                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,EPK350,JOBNO:,JOB11269 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.38                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ # SQLS SKU RECORDS WRITTEN:,0,
+ # SQLS XREF RECORDS WRITTEN:,0,
+
+DATA FROM JOB:,EPK354,JOBNO:,JOB12753 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,16.00.14                                                                                  
+TOTAL TCB CPU TIME=,13.83,
+TOTAL ELAPSED TIME=,19.8,
+NUMBER OF OUTPUT EP135 RECORDS WRITTEN:,33515294,
+
+DATA FROM JOB:,EPK366,JOBNO:,JOB11270 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.38                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,1.1,
+NUMBER OF RECORDS PROCESSED WAS,113,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EPK367,JOBNO:,JOB11271 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.38                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0.3,
+
+DATA FROM JOB:,EPK368,JOBNO:,JOB11272 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.39                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,EPK369,JOBNO:,JOB11273 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.39                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK376,JOBNO:,JOB11274 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK377,JOBNO:,JOB11275 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+      NUMBER OF SKU STR ROWS FETCHED:,0,
+       NUMBER OF ALL RECORDS WRITTEN:,0,
+
+DATA FROM JOB:,EPK648,JOBNO:,JOB11287 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.52                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ **      EXTRACT RECORDS READ  =,===>000310978**                                                                                            ,
+      EXTRACT RECORDS REA,====>000310978**   ,
+
+DATA FROM JOB:,EPK649,JOBNO:,JOB11283 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.48                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+ **      EXTRACT RECORDS READ  =,===>000071392**                                                                                            ,
+      EXTRACT RECORDS REA,====>000071392**   ,
+
+DATA FROM JOB:,EPK650,JOBNO:,JOB11282 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.48                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ **      EXTRACT RECORDS READ  =,===>000000000**                                                                                            ,
+      EXTRACT RECORDS REA,====>000000000**   ,
+
+DATA FROM JOB:,ICK036,JOBNO:,JOB19617 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.29.54                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,ICK052,JOBNO:,JOB18421 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.05.07                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ICK053,JOBNO:,JOB18437 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.05.20                                                                                  
+TOTAL TCB CPU TIME=,5.62,
+TOTAL ELAPSED TIME=,18.3,
+
+DATA FROM JOB:,ICK054,JOBNO:,JOB18696 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.23.40                                                                                  
+TOTAL TCB CPU TIME=,2.3,
+TOTAL ELAPSED TIME=,6.2,
+
+DATA FROM JOB:,ICK055,JOBNO:,JOB19084 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.51.06                                                                                  
+TOTAL TCB CPU TIME=,7.13,
+TOTAL ELAPSED TIME=,15.2,
+ RECORDS READ               :,113845,
+
+DATA FROM JOB:,ICK080,JOBNO:,JOB15887 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.00.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ TOTAL ROWS FETCHED          :,0,
+
+DATA FROM JOB:,ICK081,JOBNO:,JOB15925 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.00.18                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ICK082,JOBNO:,JOB15928 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.00.26                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ TOTALINPUT RECORDS READ    :,0,
+ TOTAL FS RECORDS WRITTEN    :,0,
+
+DATA FROM JOB:,ICK083,JOBNO:,JOB15935 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.00.33                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ TOTALINPUT RECORDS READ    :,0,
+ TOTAL FS RECORDS WRITTEN    :,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,ICK084,JOBNO:,JOB15938 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.00.34                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ICK087,JOBNO:,JOB19078 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.51.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ICK088,JOBNO:,JOB19080 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.51.06                                                                                  
+TOTAL TCB CPU TIME=,0.19,
+TOTAL ELAPSED TIME=,0.4,
+
+DATA FROM JOB:,APK127,JOBNO:,JOB28368 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.12.29                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.8,
+ CHECK RECORDS READ     000008030            
+ CHECK RECORDS READ     000008030            
+NUMBER OF RECORDS PROCESSED WAS,189,
+NUMBER OF RECORDS PROCESSED WAS,651,
+
+DATA FROM JOB:,APK128,JOBNO:,JOB28376 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.13.19                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,APK140,JOBNO:,JOB05823 ,
+EXECUTED ON DATE:,THURSDAY, 12 JUL 2018,AT :,19.00.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,136,
+NUMBER OF RECORDS PROCESSED WAS,136,
+
+DATA FROM JOB:,APK166,JOBNO:,JOB28664 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.54.40                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,1.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ OTP RECORDS READ:,0,
+ NSD RECORDS READ:,0,
+
+DATA FROM JOB:,APK170,JOBNO:,JOB28658 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.53.31                                                                                  
+TOTAL TCB CPU TIME=,0.06,
+TOTAL ELAPSED TIME=,0.8,
+ ** TOTAL RECORDS READ    =,618,
+ TOTAL RECORDS READ    = ,618,
+ ** TOTAL RECORDS WRITTEN =,618,
+ ** TOTAL RECORDS READ    =,618,
+ TOTAL RECORDS READ    = ,618,
+ ** TOTAL RECORDS READ    =,618,
+ TOTAL RECORDS READ    = ,618,
+ ** TOTAL RECORDS READ    =,618,
+ TOTAL RECORDS READ    = ,618,
+ ** TOTAL RECORDS READ    =,47822,
+ TOTAL RECORDS READ    = ,47822,
+ ** TOTAL RECORDS READ    =,326,
+ TOTAL RECORDS READ    = ,326,
+ ** TOTAL RECORDS WRITTEN =,326,
+ ** TOTAL RECORDS READ    =,326,
+ TOTAL RECORDS READ    = ,326,
+
+DATA FROM JOB:,APK402,JOBNO:,JOB28483 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.24.08                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,2,
+
+DATA FROM JOB:,ARK001,JOBNO:,JOB19721 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.34.19                                                                                  
+TOTAL TCB CPU TIME=,0.08,
+TOTAL ELAPSED TIME=,1.1,
+
+DATA FROM JOB:,ARK002,JOBNO:,JOB16046 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.19.43                                                                                  
+TOTAL TCB CPU TIME=,0.4,
+TOTAL ELAPSED TIME=,2.8,
+
+DATA FROM JOB:,ARK003,JOBNO:,JOB16030 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.14.24                                                                                  
+TOTAL TCB CPU TIME=,2.62,
+TOTAL ELAPSED TIME=,5.6,
+
+DATA FROM JOB:,ARK004,JOBNO:,JOB19702 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.33.11                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,ARK006,JOBNO:,JOB16025 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.11.10                                                                                  
+TOTAL TCB CPU TIME=,0.14,
+TOTAL ELAPSED TIME=,1,
+
+DATA FROM JOB:,ARK007,JOBNO:,JOB35638 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,12.15.01                                                                                  
+TOTAL TCB CPU TIME=,8.05,
+TOTAL ELAPSED TIME=,50.9,
+
+DATA FROM JOB:,ARK014,JOBNO:,JOB13319 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,16.57.07                                                                                  
+TOTAL TCB CPU TIME=,0.14,
+TOTAL ELAPSED TIME=,9.2,
+ RECORDS READ   :,1643855,
+
+DATA FROM JOB:,ARK016,JOBNO:,JOB10780 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.00.04                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0.2,
+ =,RECORDSREAD:                              ,
+ = RECORDS READ:,1,
+ + RECORDS PROCESSED:          ,0,
+ =,RECORDSREAD:                              ,
+ = RECORDS READ:,1,
+ RECORDS WRITTEN:,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,ARK025,JOBNO:,JOB10849 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.00.22                                                                                  
+TOTAL TCB CPU TIME=,2.18,
+TOTAL ELAPSED TIME=,5.6,
+ =,RECORDSREAD:                              ,
+ = RECORDS READ:,1,
+ + RECORDS PROCESSED:          ,0,
+ =,RECORDSREAD:                              ,
+ = RECORDS READ:,1,
+ + RECORDS WRITTEN:,0,
+ = RECORDS PROCESSED:          ,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,ARK026,JOBNO:,JOB21604 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.00.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,ARK032,JOBNO:,JOB18612 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.15.19                                                                                  
+TOTAL TCB CPU TIME=,0.54,
+TOTAL ELAPSED TIME=,10.8,
+
+DATA FROM JOB:,ARK033,JOBNO:,JOB15464 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.03.04                                                                                  
+TOTAL TCB CPU TIME=,0.58,
+TOTAL ELAPSED TIME=,2.9,
+
+DATA FROM JOB:,ARK034,JOBNO:,JOB18604 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.15.04                                                                                  
+TOTAL TCB CPU TIME=,1.18,
+TOTAL ELAPSED TIME=,22.6,
+
+DATA FROM JOB:,MLK329,JOBNO:,JOB04238 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.25.14                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MLK350,JOBNO:,JOB05279 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,04.16.54                                                                                  
+TOTAL TCB CPU TIME=,1.22,
+TOTAL ELAPSED TIME=,1.6,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,MLK370C,JOBNO:,JOB10454,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,01.12.50                                                                                  
+TOTAL TCB CPU TIME=,1.41,
+TOTAL ELAPSED TIME=,4.2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+ EXTRACT RECORDS WRITTEN :,7550057,
+
+DATA FROM JOB:,MLK395,JOBNO:,JOB04816 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.22.32                                                                                  
+TOTAL TCB CPU TIME=,1.42,
+TOTAL ELAPSED TIME=,4.5,
+ TWKDPTS ROWS FETCHED =,316,
+ EXTRACT RECORDS WRITTEN =,316876,
+ INPUT EXTRACT RECORDS READ 000316876        
+
+DATA FROM JOB:,MLK396,JOBNO:,JOB04817 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.22.32                                                                                  
+TOTAL TCB CPU TIME=,0.1,
+TOTAL ELAPSED TIME=,0.2,
+ TWKDPTC ROWS FETCHED =,                 ,
+ EXTRACT RECORDS WRITTEN =,971,
+ INPUT EXTRACT RECORDS READ 000000971        
+
+DATA FROM JOB:,MLK410,JOBNO:,JOB04930 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.37.01                                                                                  
+TOTAL TCB CPU TIME=,5.54,
+TOTAL ELAPSED TIME=,6.7,
+
+DATA FROM JOB:,MLK914,JOBNO:,JOB05272 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,04.16.31                                                                                  
+TOTAL TCB CPU TIME=,1.08,
+TOTAL ELAPSED TIME=,2.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+*TOTAL RECORDS READ ***00,666558,
+ ***TOTAL RECORDS READ ***008666558          
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ INPUT RECORDS PROCESSED  00004,4317,
+ OUTPUT RECORDS PROCESSED 00004,4317,
+ INPUT RECORDS PROCESSED  00003,9629,
+NUMBER OF RECORDS PROCESSED WAS,443,
+ INPUT RECORDS PROCESSED  00003,9741,
+
+DATA FROM JOB:,PEK151,JOBNO:,JOB05000 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.48.04                                                                                  
+TOTAL TCB CPU TIME=,0.35,
+TOTAL ELAPSED TIME=,7,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ TOTALNUMBER OF PRICE CHANGE RECORDS READ:,32729407,
+ TOTALNUMBER OF PRICE CHANGE RECORDS READ:,8014,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PEK412,JOBNO:,JOB30064 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,02.29.33                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,PMK374,JOBNO:,JOB14085 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,18.00.29                                                                                  
+TOTAL TCB CPU TIME=,5.03,
+TOTAL ELAPSED TIME=,176.6,
+
+DATA FROM JOB:,PMK375,JOBNO:,JOB14087 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,18.00.29                                                                                  
+TOTAL TCB CPU TIME=,3.57,
+TOTAL ELAPSED TIME=,136.5,
+
+DATA FROM JOB:,PMK376,JOBNO:,JOB14089 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,18.00.29                                                                                  
+TOTAL TCB CPU TIME=,0.43,
+TOTAL ELAPSED TIME=,80.4,
+
+DATA FROM JOB:,PMK377,JOBNO:,JOB14090 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,18.00.29                                                                                  
+TOTAL TCB CPU TIME=,0.39,
+TOTAL ELAPSED TIME=,105.4,
+
+DATA FROM JOB:,PMK379,JOBNO:,JOB16223 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.52.35                                                                                  
+TOTAL TCB CPU TIME=,0.55,
+TOTAL ELAPSED TIME=,10.6,
+ # OF RECORDS READ              =,50131563,
+ # OF RECORDS WRITTEN TO OUTPUT =,50119226,
+
+DATA FROM JOB:,PMK394,JOBNO:,JOB14096 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,18.00.30                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PMK395,JOBNO:,JOB14097 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,18.00.30                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PMK396,JOBNO:,JOB14098 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,18.00.30                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+ TOTALNUMBER OF RECORDS WRITTEN:,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PMK397,JOBNO:,JOB16856 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.20.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,POK960,JOBNO:,JOB20934 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.30.16                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,POK985,JOBNO:,JOB20921 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.30.02                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0.2,
+
+DATA FROM JOB:,POK999,JOBNO:,JOB16296 ,
+EXECUTED ON DATE:,THURSDAY, 21 JUN 2018,AT :,13.50.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RXK457,JOBNO:,JOB15301 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.58.15                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+
+DATA FROM JOB:,VAK305,JOBNO:,JOB07999 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,08.33.06                                                                                  
+TOTAL TCB CPU TIME=,2.95,
+TOTAL ELAPSED TIME=,5.6,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,VAK405,JOBNO:,JOB07896 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,08.26.01                                                                                  
+TOTAL TCB CPU TIME=,2.01,
+TOTAL ELAPSED TIME=,4.9,
+
+DATA FROM JOB:,VAK410,JOBNO:,JOB07240 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,07.31.15                                                                                  
+TOTAL TCB CPU TIME=,12.29,
+TOTAL ELAPSED TIME=,54.7,
+NUMBER OF RECORDS PROCESSED WAS,605,
+
+DATA FROM JOB:,EPK003,JOBNO:,JOB18299 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.01.10                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK007,JOBNO:,JOB11315 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.46.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ **  SKU EXTRACT RECORDS READ  =,===>000034083**                                                                                            ,
+  SKU EXTRACT RECORDS REA,====>000034083**   ,
+ **      EXTRACT RECORDS READ  =,===>000033443**                                                                                            ,
+      EXTRACT RECORDS REA,====>000033443**   ,
+ **  SKU EXTRACT RECORDS READ  =,===>000000000**                                                                                            ,
+  SKU EXTRACT RECORDS REA,====>000000000**   ,
+
+DATA FROM JOB:,EPK014,JOBNO:,JOB16979 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.30.16                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,272,
+NUMBER OF RECORDS PROCESSED WAS,310,
+NUMBER OF RECORDS PROCESSED WAS,713,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,EPK017,JOBNO:,JOB18492 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.08.45                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,EPK024,JOBNO:,JOB11318 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.46.05                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,340,
+
+DATA FROM JOB:,EPK027,JOBNO:,JOB11320 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.46.12                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,203,
+
+DATA FROM JOB:,EPK032,JOBNO:,JOB11279 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ ** XREF EXTRACT RECORDS READ  =,===>000000000**                                                                                            ,
+ XREF EXTRACT RECORDS REA,====>000000000**   ,
+
+DATA FROM JOB:,EPK044,JOBNO:,JOB11321 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.46.18                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,EPK046,JOBNO:,JOB16969 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.30.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+ ** RECORDS READ =,=========>000000003       ,
+ RECORDS READ ==========>,000000003**        ,
+ ** RECORDS WRITTEN =,======>000000005**     ,
+
+DATA FROM JOB:,EPK051,JOBNO:,JOB18384 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.02.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,EPK091,JOBNO:,JOB11280 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.42.45                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ **  SKU EXTRACT RECORDS READ  =,===>000000000**                                                                                            ,
+  SKU EXTRACT RECORDS REA,====>000000000**   ,
+ **      EXTRACT RECORDS READ  =,===>000000000**                                                                                            ,
+      EXTRACT RECORDS REA,====>000000000**   ,
+
+DATA FROM JOB:,MLK022,JOBNO:,JOB18915 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.38.54                                                                                  
+TOTAL TCB CPU TIME=,14.25,
+TOTAL ELAPSED TIME=,151.3,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,2,
+
+DATA FROM JOB:,MLK023,JOBNO:,JOB20789 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.10.15                                                                                  
+TOTAL TCB CPU TIME=,5.09,
+TOTAL ELAPSED TIME=,118.1,
+NUMBER OF RECORDS PROCESSED WAS,323,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,MLK026,JOBNO:,JOB21844 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.08.25                                                                                  
+TOTAL TCB CPU TIME=,0.97,
+TOTAL ELAPSED TIME=,38,
+NUMBER OF RECORDS PROCESSED WAS,763,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,MLK045,JOBNO:,JOB06114 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,05.50.08                                                                                  
+TOTAL TCB CPU TIME=,1.05,
+TOTAL ELAPSED TIME=,2.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MLK142,JOBNO:,JOB04075 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.11.42                                                                                  
+TOTAL TCB CPU TIME=,1.1,
+TOTAL ELAPSED TIME=,8.6,
+
+DATA FROM JOB:,MLK143,JOBNO:,JOB04076 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.11.42                                                                                  
+TOTAL TCB CPU TIME=,1.47,
+TOTAL ELAPSED TIME=,11.4,
+
+DATA FROM JOB:,MLK145,JOBNO:,JOB04219 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.23.12                                                                                  
+TOTAL TCB CPU TIME=,0.21,
+TOTAL ELAPSED TIME=,6.3,
+
+DATA FROM JOB:,MLK161,JOBNO:,JOB04308 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.32.19                                                                                  
+TOTAL TCB CPU TIME=,0.75,
+TOTAL ELAPSED TIME=,9.4,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ EXTRACT  RECORDS READ =,32188523,
+ EXTRACT  RECORDS READ =,32729407,
+
+DATA FROM JOB:,MLK163,JOBNO:,JOB04394 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.41.47                                                                                  
+TOTAL TCB CPU TIME=,0.82,
+TOTAL ELAPSED TIME=,14.9,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ EXTRACT  RECORDS READ =,4489372,
+ EXTRACT  RECORDS READ =,29594348,
+
+DATA FROM JOB:,MLK181,JOBNO:,JOB04968 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.43.26                                                                                  
+TOTAL TCB CPU TIME=,3.71,
+TOTAL ELAPSED TIME=,11.3,
+ INPUT RECORDS PROCESSED  00931,3683,
+
+DATA FROM JOB:,MLK182,JOBNO:,JOB05062 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.57.47                                                                                  
+TOTAL TCB CPU TIME=,2.23,
+TOTAL ELAPSED TIME=,18.7,
+ INPUT RECORDS PROCESSED  09174,4658,
+ OUTPUT RECORDS PROCESSED 09174,4658,
+ INPUT RECORDS PROCESSED  00045,8421,
+
+DATA FROM JOB:,MLK183,JOBNO:,JOB05063 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.57.47                                                                                  
+TOTAL TCB CPU TIME=,3.54,
+TOTAL ELAPSED TIME=,12.9,
+ INPUT RECORDS PROCESSED  00839,9694,
+
+DATA FROM JOB:,MLK188,JOBNO:,JOB06097 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,05.48.43                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.3,
+
+DATA FROM JOB:,MLK189,JOBNO:,JOB07112 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,07.17.01                                                                                  
+TOTAL TCB CPU TIME=,0.69,
+TOTAL ELAPSED TIME=,5.7,
+
+DATA FROM JOB:,MLK200,JOBNO:,JOB06082 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,05.47.24                                                                                  
+TOTAL TCB CPU TIME=,0.69,
+TOTAL ELAPSED TIME=,1.2,
+NUMBER OF RECORDS PROCESSED WAS,14,
+
+DATA FROM JOB:,MLK202,JOBNO:,JOB05980 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,05.34.56                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+
+DATA FROM JOB:,MLK210,JOBNO:,JOB06700 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,06.53.13                                                                                  
+TOTAL TCB CPU TIME=,2.93,
+TOTAL ELAPSED TIME=,23.7,
+NUMBER OF RECORDS PROCESSED WAS,14,
+
+DATA FROM JOB:,MLK221,JOBNO:,JOB04466 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.50.02                                                                                  
+TOTAL TCB CPU TIME=,1.87,
+TOTAL ELAPSED TIME=,24.9,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ PURCHASE RECORDS READ =,37764475,
+ EXTRACT  RECORDS READ =,0,
+ * WRITE - TOTAL RECORDS WRITTEN:,1116,
+ * WRITE - TOTALRECORDSWRITT,
+ * WRITE - TOTAL RECORDS WRITTEN:,49353,
+ * WRITE - TOTALRECORDSWRITT,
+
+DATA FROM JOB:,MLK222,JOBNO:,JOB04467 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.50.02                                                                                  
+TOTAL TCB CPU TIME=,1.21,
+TOTAL ELAPSED TIME=,41.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ PURCHASE RECORDS READ =,0,
+ EXTRACT  RECORDS READ =,0,
+ * WRITE - TOTAL RECORDS WRITTEN:,76,
+ * WRITE - TOTALRECORDSWRITT,
+ * WRITE - TOTAL RECORDS WRITTEN:,4625073,
+ * WRITE - TOTALRECORDSWRITT,
+
+DATA FROM JOB:,MLK223,JOBNO:,JOB04468 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.50.02                                                                                  
+TOTAL TCB CPU TIME=,1.42,
+TOTAL ELAPSED TIME=,38.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ PURCHASE RECORDS READ =,0,
+ EXTRACT  RECORDS READ =,31378224,
+ * WRITE - TOTAL RECORDS WRITTEN:,64,
+ * WRITE - TOTALRECORDSWRITT,
+ * WRITE - TOTAL RECORDS WRITTEN:,3584584,
+ * WRITE - TOTALRECORDSWRITT,
+
+DATA FROM JOB:,MLK224,JOBNO:,JOB04877 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.31.19                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,2.7,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ PURCHASE RECORDS READ =,0,
+ EXTRACT  RECORDS READ =,0,
+
+DATA FROM JOB:,MLK226,JOBNO:,JOB04231 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.25.12                                                                                  
+TOTAL TCB CPU TIME=,7.76,
+TOTAL ELAPSED TIME=,15,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,MLK227,JOBNO:,JOB04232 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.25.12                                                                                  
+TOTAL TCB CPU TIME=,2.41,
+TOTAL ELAPSED TIME=,6,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,MLK228,JOBNO:,JOB04233 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.25.12                                                                                  
+TOTAL TCB CPU TIME=,2.35,
+TOTAL ELAPSED TIME=,6.9,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,MLK229,JOBNO:,JOB04234 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.25.12                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,MLK251,JOBNO:,JOB04078 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.11.42                                                                                  
+TOTAL TCB CPU TIME=,0.08,
+TOTAL ELAPSED TIME=,1.4,
+ DSNU302I    196 02:13:07.57 DS,NURI         ,
+
+DATA FROM JOB:,MLK275,JOBNO:,JOB04775 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.20.43                                                                                  
+TOTAL TCB CPU TIME=,0.57,
+TOTAL ELAPSED TIME=,1.1,
+
+DATA FROM JOB:,MLK283,JOBNO:,JOB04811 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.22.30                                                                                  
+TOTAL TCB CPU TIME=,3,
+TOTAL ELAPSED TIME=,6.8,
+ TMNMCLS ROWS FETCHED =,1854,
+ EXTRACT RECORDS WRITTEN =,1854838,
+ INPUT EXTRACT RECORDS READ 001854838        
+
+DATA FROM JOB:,MLK291,JOBNO:,JOB04813 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.22.32                                                                                  
+TOTAL TCB CPU TIME=,0.15,
+TOTAL ELAPSED TIME=,0.3,
+ TWKMCLC ROWS FETCHED =,74,
+ EXTRACT RECORDS WRITTEN =,7475,
+ INPUT EXTRACT RECORDS READ 000007475        
+
+DATA FROM JOB:,MLK293,JOBNO:,JOB04814 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.22.32                                                                                  
+TOTAL TCB CPU TIME=,0.1,
+TOTAL ELAPSED TIME=,0.2,
+ TMNMCLC ROWS FETCHED =,74,
+ EXTRACT RECORDS WRITTEN =,7475,
+ INPUT EXTRACT RECORDS READ 000007475        
+
+DATA FROM JOB:,MLK296,JOBNO:,JOB04815 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.22.32                                                                                  
+TOTAL TCB CPU TIME=,0.13,
+TOTAL ELAPSED TIME=,0.2,
+ TMNDPTC ROWS FETCHED =,                 ,
+ EXTRACT RECORDS WRITTEN =,971,
+
+DATA FROM JOB:,MLK304,JOBNO:,JOB05300 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,04.19.24                                                                                  
+TOTAL TCB CPU TIME=,0.69,
+TOTAL ELAPSED TIME=,3.3,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MLK305,JOBNO:,JOB09682 ,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,00.28.14                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,365,
+
+DATA FROM JOB:,MLK309,JOBNO:,JOB05277 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,04.16.54                                                                                  
+TOTAL TCB CPU TIME=,0.29,
+TOTAL ELAPSED TIME=,2.4,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ INP01 RECORDS READ       000000034602548    
+ INP01 RECORDS READ       000000034602548    
+NUMBER OF RECORDS PROCESSED WAS,346,
+
+DATA FROM JOB:,MLK310,JOBNO:,JOB05301 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,04.19.24                                                                                  
+TOTAL TCB CPU TIME=,1.08,
+TOTAL ELAPSED TIME=,3.4,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MLK326,JOBNO:,JOB04235 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.25.12                                                                                  
+TOTAL TCB CPU TIME=,0.75,
+TOTAL ELAPSED TIME=,8.4,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MLK327,JOBNO:,JOB04236 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.25.12                                                                                  
+TOTAL TCB CPU TIME=,0.37,
+TOTAL ELAPSED TIME=,3.8,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MLK328,JOBNO:,JOB04237 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.25.12                                                                                  
+TOTAL TCB CPU TIME=,0.82,
+TOTAL ELAPSED TIME=,12.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,INK305,JOBNO:,JOB18672 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.20.20                                                                                  
+TOTAL TCB CPU TIME=,3.15,
+TOTAL ELAPSED TIME=,7.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,INK306,JOBNO:,JOB18745 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.27.36                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.6,
+NUMBER OF RECORDS PROCESSED WAS,0           ,
+
+DATA FROM JOB:,INK910,JOBNO:,JOB08836 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.54.46                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,INK036,JOBNO:,JOB21694 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.01.07                                                                                  
+TOTAL TCB CPU TIME=,5.03,
+TOTAL ELAPSED TIME=,10,
+NUMBER OF RECORDS PROCESSED WAS,2,
+
+DATA FROM JOB:,INK142,JOBNO:,JOB04524 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.57.57                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.4,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,467,
+
+DATA FROM JOB:,INK161,JOBNO:,JOB04531 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.58.25                                                                                  
+TOTAL TCB CPU TIME=,0.14,
+TOTAL ELAPSED TIME=,4,
+NUMBER OF RECORDS PROCESSED WAS,763,
+NUMBER OF RECORDS PROCESSED WAS,287,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ PURCHASE RECORDS READ =,763335,
+ EXTRACT  RECORDS READ =,287871,
+ PURCHASE RECORDS READ =,0,
+ EXTRACT  RECORDS READ =,0,
+ * WRITE - TOTAL RECORDS WRITTEN:,12,
+ * WRITE - TOTALRECORDSWRITT,
+ * WRITE - TOTAL RECORDS WRITTEN:,54738,
+ * WRITE - TOTALRECORDSWRITT,
+NUMBER OF RECORDS READ FROM UNKNOWN FILE:,2821,
+NUMBER OF RECORDS WRITTEN TO NON-PRORATE-FILE:,2821,
+NUMBER OF RECORDS WRITTEN TO NON-,PRORATE-FILE:02821                                                                                       ,
+NUMBER OF RECORDS WRITTEN TO PRORATE-FILE:,0,
+NUMBER OF RECORDS WRITTEN TO PRORATE-,FILE:00000                                                                                           ,
+NUMBER OF RECORDS WRITTEN TO REVERSAL-FILE:,0,
+NUMBER OF RECORDS WRITTEN TO REVERSAL-,FILE:00000                                                                                          ,
+NUMBER OF RECORDS WRITTEN TO NON-,PRORATE-FILEFOR                                                                                          ,
+NUMBER OF PRORATE RECORDS WRITTEN TO AUDIT FILE:,0,
+NUMBER OF REVERSEL RECORDS WRITTEN TO AUDIT FILE:,0,
+NUMBER OF RECORDS PROCESSED WAS,3,
+NUMBER OF RECORDS READ FROM INPUT FILE    :,38,
+NUMBER OF RECORDS WRITTEN TO PRORATED FILE:,428,
+NUMBER OF RECORDS WRITTEN TO AUDIT FILE   :,446,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK393,JOBNO:,JOB19156 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.00.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.8,
+
+DATA FROM JOB:,INK396,JOBNO:,JOB03814 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.00.07                                                                                  
+TOTAL TCB CPU TIME=,0.11,
+TOTAL ELAPSED TIME=,1.3,
+ NBR OF RECORDS WRITTEN                   =,=>00029033819                                                                                   ,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK397,JOBNO:,JOB03901 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.01.33                                                                                  
+TOTAL TCB CPU TIME=,1.69,
+TOTAL ELAPSED TIME=,21.3,
+ NBR OF RECORDS WRITTEN                   =,=>00000001324                                                                                   ,
+ NBR OF RECORDS WRITTEN                   =,=>00278628728                                                                                   ,
+NUMBER OF RECORDS PROCESSED WAS,133,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,133,
+NUMBER OF RECORDS PROCESSED WAS,278,
+NUMBER OF RECORDS PROCESSED WAS,290,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK400,JOBNO:,JOB08739 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.43.18                                                                                  
+TOTAL TCB CPU TIME=,0.17,
+TOTAL ELAPSED TIME=,0.6,
+
+DATA FROM JOB:,INK401,JOBNO:,JOB08801 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.50.56                                                                                  
+TOTAL TCB CPU TIME=,0.18,
+TOTAL ELAPSED TIME=,0.6,
+
+DATA FROM JOB:,INK405,JOBNO:,JOB08742 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.43.57                                                                                  
+TOTAL TCB CPU TIME=,2.11,
+TOTAL ELAPSED TIME=,6.9,
+
+DATA FROM JOB:,INK407,JOBNO:,JOB08026 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,08.38.26                                                                                  
+TOTAL TCB CPU TIME=,1.05,
+TOTAL ELAPSED TIME=,1.6,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,INK409,JOBNO:,JOB08800 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.50.56                                                                                  
+TOTAL TCB CPU TIME=,0.27,
+TOTAL ELAPSED TIME=,3,
+NUMBER OF RECORDS PROCESSED WAS,212,
+
+DATA FROM JOB:,INK410,JOBNO:,JOB08027 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,08.38.26                                                                                  
+TOTAL TCB CPU TIME=,20.7,
+TOTAL ELAPSED TIME=,64.8,
+NUMBER OF RECORDS PROCESSED WAS,685,
+
+DATA FROM JOB:,INK411,JOBNO:,JOB08828 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.53.58                                                                                  
+TOTAL TCB CPU TIME=,0.07,
+TOTAL ELAPSED TIME=,0.2,
+
+DATA FROM JOB:,INK412,JOBNO:,JOB08842 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.55.49                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,INK417,JOBNO:,JOB08843 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.55.49                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,INK497,JOBNO:,JOB08844 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.55.51                                                                                  
+TOTAL TCB CPU TIME=,0.66,
+TOTAL ELAPSED TIME=,1.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+ *  RECORDS READ  =,21214118,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ *  RECORDS READ  =,0,
+NUMBER OF RECORDS PROCESSED WAS,160,
+
+DATA FROM JOB:,INK900,JOBNO:,JOB08833 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,09.54.16                                                                                  
+TOTAL TCB CPU TIME=,0.14,
+TOTAL ELAPSED TIME=,0.4,
+NUMBER OF RECORDS PROCESSED WAS,0,
+ INVENTORY EXTRACT RECORDS READ  =,52164,
+
+DATA FROM JOB:,MAK471,JOBNO:,JOB19666 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.32.07                                                                                  
+TOTAL TCB CPU TIME=,12.48,
+TOTAL ELAPSED TIME=,27.7,
+ EXTRACT RECORDS WRITTEN -,-177828,
+
+DATA FROM JOB:,MAK472,JOBNO:,JOB19667 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.32.07                                                                                  
+TOTAL TCB CPU TIME=,41.65,
+TOTAL ELAPSED TIME=,63.8,
+
+DATA FROM JOB:,MAK473,JOBNO:,JOB19668 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.32.07                                                                                  
+TOTAL TCB CPU TIME=,34.81,
+TOTAL ELAPSED TIME=,45.2,
+
+DATA FROM JOB:,MBK500,JOBNO:,JOB08216 ,
+EXECUTED ON DATE:,WEDNESDAY,13 JUN 2018,AT :,02.05.07                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,MBK935,JOBNO:,JOB12395 ,
+EXECUTED ON DATE:,SUNDAY,04 FEB 2018,AT :,08.10.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MHK040,JOBNO:,JOB04336 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.36.35                                                                                  
+TOTAL TCB CPU TIME=,2.36,
+TOTAL ELAPSED TIME=,29.8,
+ EXTRACT RECORDS WRITTEN -,-109626002,
+
+DATA FROM JOB:,MHK115,JOBNO:,JOB15546 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.10.46                                                                                  
+TOTAL TCB CPU TIME=,0.92,
+TOTAL ELAPSED TIME=,2.4,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,MHK116,JOBNO:,JOB18064 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,23.42.21                                                                                  
+TOTAL TCB CPU TIME=,8.86,
+TOTAL ELAPSED TIME=,192,
+
+DATA FROM JOB:,MHK117,JOBNO:,JOB18914 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.38.54                                                                                  
+TOTAL TCB CPU TIME=,47.07,
+TOTAL ELAPSED TIME=,138.6,
+
+DATA FROM JOB:,MHK118,JOBNO:,JOB20563 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,02.57.33                                                                                  
+TOTAL TCB CPU TIME=,3.72,
+TOTAL ELAPSED TIME=,75.9,
+
+DATA FROM JOB:,MHK120,JOBNO:,JOB21299 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,04.13.28                                                                                  
+TOTAL TCB CPU TIME=,3.26,
+TOTAL ELAPSED TIME=,65.2,
+ EXTRACT RECORDS WRITTEN -,-189775933,
+ **NUMBER OF RECORDS WRITTEN:,189753411,
+
+DATA FROM JOB:,MHK125,JOBNO:,JOB04681 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.06.27                                                                                  
+TOTAL TCB CPU TIME=,1.69,
+TOTAL ELAPSED TIME=,34.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ DATA LOAD RECORDS WRITTEN -,-186174146,
+NUMBER OF RECORDS PROCESSED WAS,186,
+
+DATA FROM JOB:,MHK139,JOBNO:,JOB20839 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,03.16.08                                                                                  
+TOTAL TCB CPU TIME=,0.2,
+TOTAL ELAPSED TIME=,3,
+ **NUMBER OF RECORDS WRITTEN:,31752803,
+NUMBER OF RECORDS PROCESSED WAS,317,
+
+DATA FROM JOB:,VLK030,JOBNO:,JOB15330 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.00.07                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+
+DATA FROM JOB:,VLK031,JOBNO:,JOB15514 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.07.10                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,VLK032,JOBNO:,JOB18485 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.07.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,VLK033,JOBNO:,JOB15773 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.34.26                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,BVK101,JOBNO:,JOB39770 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,19.02.34                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,DAK010,JOBNO:,JOB36068 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,13.00.25                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ RECORDS READ    0000000                     
+ RECORDS READ    0000000                     
+ ML RECORDS READ     000000001               
+ ML RECORDS READ     000000001               
+ ML RECORDS READ     000000001               
+     ROWS FETCHED        000000000           
+
+DATA FROM JOB:,FSK865,JOBNO:,JOB11565 ,
+EXECUTED ON DATE:,SUNDAY,04 FEB 2018,AT :,07.02.54                                                                                  
+TOTAL TCB CPU TIME=,45.31,
+TOTAL ELAPSED TIME=,185,
+ TSKST RECORDS READ     :,347070826,
+
+DATA FROM JOB:,FSK310,JOBNO:,JOB12840 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,16.01.26                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ ********  NO RECORDS PROCESSED,**           ,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,FSK159,JOBNO:,JOB06544 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,06.35.31                                                                                  
+TOTAL TCB CPU TIME=,71.85,
+TOTAL ELAPSED TIME=,200.8,
+ TSKSTINPUT RECORDS READ  =,187225101,
+ STORE ZERO RECORDS READ   =,8015418,
+
+DATA FROM JOB:,FSK059,JOBNO:,JOB15878 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.00.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,FSK050,JOBNO:,JOB18933 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.38.57                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,FSK048,JOBNO:,JOB18910 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.38.54                                                                                  
+TOTAL TCB CPU TIME=,8.74,
+TOTAL ELAPSED TIME=,17.8,
+
+DATA FROM JOB:,FSK047,JOBNO:,JOB18752 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.28.03                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,FSK046,JOBNO:,JOB18900 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.38.50                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,FSK041,JOBNO:,JOB18909 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.38.52                                                                                  
+TOTAL TCB CPU TIME=,0.44,
+TOTAL ELAPSED TIME=,1.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ FSKRP122 - RECORDS PROCESSED: ,3,
+ FSKRP123 - RECORDS PROCESSED: ,         ,
+ FSKRP123 - RECORDS WRITTEN :,0,
+ FSKRP123 -,RECORDSWRITTEN:                  ,
+NUMBER OF RECORDS PROCESSED WAS,10,
+
+DATA FROM JOB:,FSK033,JOBNO:,JOB15746 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.31.01                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,401,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,FSK032,JOBNO:,JOB18906 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.38.52                                                                                  
+TOTAL TCB CPU TIME=,1.42,
+TOTAL ELAPSED TIME=,15.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ TOTAL RECORDS READ  - 3,723,120
+
+DATA FROM JOB:,IMK033,JOBNO:,JOB10791 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.00.05                                                                                  
+TOTAL TCB CPU TIME=,0.2,
+TOTAL ELAPSED TIME=,1.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ RECORDS WRITTEN :,332362,
+INPUT RECORDS READ:,332362,
+ TOTAL RECORDS WRITTEN:,332937,
+ *** IMKUT076 -,ALLRECORDSWRITTEN            ,
+ PRICE UPDATES RECORDS READ =,332937,
+
+DATA FROM JOB:,IMK054,JOBNO:,JOB15212 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.45.03                                                                                  
+TOTAL TCB CPU TIME=,5.37,
+TOTAL ELAPSED TIME=,19,
+ SKU LOC RECORDS READ     =,512970877,
+ UPC RECORDS READ         =,3750738,
+ SKU LOC RECORDS WRITTEN  =,512228722,
+ LOC ZERO RECORDS WRITTEN =,2188305,
+
+DATA FROM JOB:,IMK056,JOBNO:,JOB15269 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.52.47                                                                                  
+TOTAL TCB CPU TIME=,5.23,
+TOTAL ELAPSED TIME=,17.9,
+ SKU LOC RECORDS READ     =,499044996,
+ UPC RECORDS READ         =,7317026,
+ SKU LOC RECORDS WRITTEN  =,498296423,
+ LOC ZERO RECORDS WRITTEN =,2080093,
+
+DATA FROM JOB:,IMK057,JOBNO:,JOB15267 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.52.18                                                                                  
+TOTAL TCB CPU TIME=,5.04,
+TOTAL ELAPSED TIME=,17.5,
+ SKU LOC RECORDS READ     =,485128742,
+ UPC RECORDS READ         =,10666423,
+ SKU LOC RECORDS WRITTEN  =,484526148,
+ LOC ZERO RECORDS WRITTEN =,1949709,
+
+DATA FROM JOB:,IMK058,JOBNO:,JOB15268 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.52.44                                                                                  
+TOTAL TCB CPU TIME=,5.1,
+TOTAL ELAPSED TIME=,17.5,
+ SKU LOC RECORDS READ     =,486355786,
+ UPC RECORDS READ         =,14019842,
+ SKU LOC RECORDS WRITTEN  =,485748162,
+ LOC ZERO RECORDS WRITTEN =,1953607,
+
+DATA FROM JOB:,IMK061,JOBNO:,JOB14630 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.00.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,IMK132,JOBNO:,JOB10969 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.09.45                                                                                  
+TOTAL TCB CPU TIME=,0.11,
+TOTAL ELAPSED TIME=,0.2,
+INPUT RECORDS READ:,332937,
+
+DATA FROM JOB:,IMK134,JOBNO:,JOB10971 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.10.00                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+ *** IMKUT077 -,ALLRECORDSWRITTEN            ,
+ PRICE UPDATES RECORDS READ =,332937,
+
+DATA FROM JOB:,IMK136,JOBNO:,JOB10988 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,13.11.27                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0,
+INPUT RECORDS READ:,332937,
+
+DATA FROM JOB:,IMK600,JOBNO:,JOB15135 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.31.56                                                                                  
+TOTAL TCB CPU TIME=,2.51,
+TOTAL ELAPSED TIME=,13.1,
+
+DATA FROM JOB:,IMK601,JOBNO:,JOB15130 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.31.17                                                                                  
+TOTAL TCB CPU TIME=,2.35,
+TOTAL ELAPSED TIME=,21.4,
+
+DATA FROM JOB:,IMK602,JOBNO:,JOB15093 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.29.58                                                                                  
+TOTAL TCB CPU TIME=,2.28,
+TOTAL ELAPSED TIME=,22.3,
+
+DATA FROM JOB:,IMK603,JOBNO:,JOB15121 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,19.30.07                                                                                  
+TOTAL TCB CPU TIME=,2.34,
+TOTAL ELAPSED TIME=,22.6,
+
+DATA FROM JOB:,INK019,JOBNO:,JOB19606 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,01.26.52                                                                                  
+TOTAL TCB CPU TIME=,3.08,
+TOTAL ELAPSED TIME=,7.8,
+NUMBER OF RECORDS PROCESSED WAS,1,
+  ADJUSTMENT RECORD I,N:0000000000000        ,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK215,JOBNO:,JOB04655 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.02.27                                                                                  
+TOTAL TCB CPU TIME=,0.1,
+TOTAL ELAPSED TIME=,0.9,
+ INPUT RECORDS PROCESSED  00013,2661,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,INK217,JOBNO:,JOB04656 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,03.02.27                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,0.1,
+ INPUT RECORDS PROCESSED  00008,1479,
+
+DATA FROM JOB:,INK219,JOBNO:,JOB07900 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,08.27.11                                                                                  
+TOTAL TCB CPU TIME=,0.13,
+TOTAL ELAPSED TIME=,0.1,
+DEPTS PROCESSED,354437,
+
+DATA FROM JOB:,INK220,JOBNO:,JOB07901 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,08.27.20                                                                                  
+TOTAL TCB CPU TIME=,9.62,
+TOTAL ELAPSED TIME=,11.1,
+ ROWS  PROCESSE,D013065800                   ,
+
+DATA FROM JOB:,XFK015,JOBNO:,JOB16533 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.10                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,0.4,
+NUMBER OF RECORDS PROCESSED WAS,144,
+NUMBER OF RECORDS PROCESSED WAS,113,
+NUMBER OF RECORDS PROCESSED WAS,22,
+NUMBER OF RECORDS PROCESSED WAS,8,
+ STORE RECORDS READ  =,1591,
+ STORE RECORDS READ  =,24784,
+ REGION RECORDS READ  =,22,
+ TERR RECORDS READ  =,8,
+ REGION ATTR RECORDS READ  =,22,
+ TERR ATTR RECORDS READ  =,8,
+ STORE RECORDS READ  =,1591,
+ STORE RECORDS READ  =,24784,
+ REGION RECORDS READ  =,22,
+ TERR RECORDS READ  =,8,
+ REGION ATTR RECORDS READ  =,22,
+ TERR ATTR RECORDS READ  =,8,
+
+DATA FROM JOB:,XFK020,JOBNO:,JOB16527 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,XFK025,JOBNO:,JOB16600 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.43                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,144,
+NUMBER OF RECORDS PROCESSED WAS,113,
+NUMBER OF RECORDS PROCESSED WAS,18,
+
+DATA FROM JOB:,DLK001,JOBNO:,JOB22235 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.40.00                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,0.1,
+ SHIP ASGMT RECORDS READ ,1,
+ SHIP EVENT RECORDS READ ,7,
+ TOTAL RECORDS READ        :,2,
+ TOTAL EXTRACT RECORDS WRITTEN =,2890,
+ TOTAL KEY RECORDS WRITTEN     =,4925,
+  RECORDS READ      =,2890,
+  RECORDS WRITTEN   =,2941,
+ DOOR SUMMARY HISTORY RECORDS READ...:,98,
+ DOOR SUMMARY HISTORY RECORDS WRITTEN:,98,
+ TOTAL RECORDS READ        :,2890,
+ TOTAL PC RECORDS READ     :,1488,
+ TOTAL SU RECORDS READ     :,1402,
+
+DATA FROM JOB:,DLK002,JOBNO:,JOB22323 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.46.01                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0,
+ SHIP ASGMT RECORDS READ ,0,
+ SHIP EVENT RECORDS READ ,0,
+ TOTAL RECORDS READ        :,0,
+ TOTAL EXTRACT RECORDS WRITTEN =,0,
+ TOTAL KEY RECORDS WRITTEN     =,0,
+
+DATA FROM JOB:,DLK003,JOBNO:,JOB22331 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.47.00                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0,
+ SHIP ASGMT RECORDS READ ,0,
+ SHIP EVENT RECORDS READ ,0,
+ TOTAL RECORDS READ        :,0,
+ TOTAL EXTRACT RECORDS WRITTEN =,0,
+ TOTAL KEY RECORDS WRITTEN     =,0,
+
+DATA FROM JOB:,DLK004,JOBNO:,JOB22333 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.48.00                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,0,
+ SHIP ASGMT RECORDS READ ,0,
+ SHIP EVENT RECORDS READ ,0,
+ TOTAL RECORDS READ        :,0,
+ TOTAL EXTRACT RECORDS WRITTEN =,0,
+ TOTAL KEY RECORDS WRITTEN     =,0,
+
+DATA FROM JOB:,DLK005,JOBNO:,JOB22343 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.49.00                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0,
+ SHIP ASGMT RECORDS READ ,1,
+ SHIP EVENT RECORDS READ ,0,
+ TOTAL RECORDS READ        :,0,
+ TOTAL EXTRACT RECORDS WRITTEN =,0,
+ TOTAL KEY RECORDS WRITTEN     =,0,
+
+DATA FROM JOB:,DLK006,JOBNO:,JOB22346 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.50.00                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,0.1,
+ SHIP ASGMT RECORDS READ ,14,
+ SHIP EVENT RECORDS READ ,2,
+ TOTAL RECORDS READ        :,0,
+ TOTAL EXTRACT RECORDS WRITTEN =,3651,
+ TOTAL KEY RECORDS WRITTEN     =,7796,
+  RECORDS READ      =,3651,
+  RECORDS WRITTEN   =,3717,
+ DOOR SUMMARY HISTORY RECORDS READ...:,175,
+ DOOR SUMMARY HISTORY RECORDS WRITTEN:,175,
+ TOTAL RECORDS READ        :,3651,
+ TOTAL PC RECORDS READ     :,1951,
+ TOTAL SU RECORDS READ     :,1700,
+
+DATA FROM JOB:,DLK008,JOBNO:,JOB22171 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.37.00                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0,
+ SHIP ASGMT RECORDS READ ,0,
+ SHIP EVENT RECORDS READ ,0,
+ TOTAL RECORDS READ        :,0,
+ TOTAL EXTRACT RECORDS WRITTEN =,0,
+ TOTAL KEY RECORDS WRITTEN     =,0,
+
+DATA FROM JOB:,DLK009,JOBNO:,JOB22177 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.38.00                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0,
+ SHIP ASGMT RECORDS READ ,0,
+ SHIP EVENT RECORDS READ ,0,
+ TOTAL RECORDS READ        :,0,
+ TOTAL EXTRACT RECORDS WRITTEN =,0,
+ TOTAL KEY RECORDS WRITTEN     =,0,
+
+DATA FROM JOB:,DLK010,JOBNO:,JOB22184 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.39.00                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0,
+ SHIP ASGMT RECORDS READ ,0,
+ SHIP EVENT RECORDS READ ,0,
+ TOTAL RECORDS READ        :,0,
+ TOTAL EXTRACT RECORDS WRITTEN =,0,
+ TOTAL KEY RECORDS WRITTEN     =,0,
+
+DATA FROM JOB:,MPK060,JOBNO:,JOB18449 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.06.08                                                                                  
+TOTAL TCB CPU TIME=,0.07,
+TOTAL ELAPSED TIME=,0.7,
+NUMBER OF RECORDS PROCESSED WAS,1,
+RECR_VAL                                     
+ SUMMARY RECORDS READ            =,0,
+ UPDATED SUMMARY RECORDS WRITTEN =,0,
+ RCRD009 RECORDS WRITTEN         =,0,
+ RECORDS READ        =,1378,
+ RECORDS WRITTEN     =,1378,
+ DTS RECORDS WRITTEN =,1378,
+ AP  RECORDS WRITTEN =,                  ,
+NUMBER OF RECORDS PROCESSED WAS,137,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PCK005,JOBNO:,JOB24322 ,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,18.00.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,PCK006,JOBNO:,JOB18560 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.10.08                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,2.2,
+ TOTAL RECORDS READ         :,18,
+ TOTAL INPUT SE RECORDS READ:,18,
+ TOTAL INPUT IT RECORDS READ:,0,
+ TOTAL RECORDS WRITTEN TO OUTPUT FILE1 :,18,
+NUMBER OF RECORDS PROCESSED WAS,18,
+ RECORDS READ               =,18,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PCK007,JOBNO:,JOB21606 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.00.03                                                                                  
+TOTAL TCB CPU TIME=,1.01,
+TOTAL ELAPSED TIME=,2.5,
+ TOTAL RECORDS WRITTEN FOR DC  890 =,313,
+ TOTAL RECORDS WRITTEN TO FILE 1 =,313,
+ TOTAL RECORDS WRITTEN TO FILE 2 =,0,
+  RECORDS READ              000000419        
+  RECORDS READ              000000419        
+  RECORDS READ    =,8409,
+  RECORDS WRITTEN =,8409,
+ TOTAL RECORDS WRITTEN TO FILE 1 =,8825,
+ TOTAL RECORDS WRITTEN TO FILE 2 =,0,
+
+DATA FROM JOB:,PCK010,JOBNO:,JOB11960 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,14.45.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,PCK011,JOBNO:,JOB11958 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,14.45.01                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,PCK012,JOBNO:,JOB11961 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,14.45.05                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,PCK035,JOBNO:,JOB04374 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.40.27                                                                                  
+TOTAL TCB CPU TIME=,0.13,
+TOTAL ELAPSED TIME=,4.7,
+
+DATA FROM JOB:,PCK036,JOBNO:,JOB15890 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.00.08                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,PCK043,JOBNO:,JOB18812 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.30.28                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+  RECORDS READ  =,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,PCK044,JOBNO:,JOB18164 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.00.07                                                                                  
+TOTAL TCB CPU TIME=,0.2,
+TOTAL ELAPSED TIME=,7.9,
+ RECORDS PROCESSED....:        ,500,
+ RECORDS PROCESSED....:       1,0,
+ RECORDS PROCESSED....:       1,500,
+ RECORDS PROCESSED....:       2,0,
+ RECORDS PROCESSED....:       2,500,
+ RECORDS PROCESSED....:       3,0,
+ RECORDS PROCESSED....:       3,500,
+ RECORDS PROCESSED....:       4,0,
+ RECORDS PROCESSED....:       4,500,
+ RECORDS PROCESSED....:       5,0,
+ RECORDS PROCESSED....:       5,500,
+ RECORDS PROCESSED....:       6,0,
+ RECORDS PROCESSED....:       6,500,
+ RECORDS PROCESSED....:       7,0,
+ RECORDS PROCESSED....:       7,500,
+ RECORDS PROCESSED....:       8,0,
+ RECORDS PROCESSED....:       8,500,
+ RECORDS PROCESSED....:       9,0,
+ RECORDS PROCESSED....:       9,500,
+ RECORDS PROCESSED....:      10,0,
+ RECORDS PROCESSED....:      10,500,
+ RECORDS PROCESSED....:      11,0,
+ RECORDS PROCESSED....:      11,500,
+ RECORDS PROCESSED....:      12,0,
+ RECORDS PROCESSED....:      12,500,
+ RECORDS PROCESSED....:      13,0,
+ RECORDS PROCESSED....:      13,500,
+ RECORDS PROCESSED....:      14,0,
+ RECORDS PROCESSED....:      14,500,
+ RECORDS PROCESSED....:      15,0,
+ RECORDS PROCESSED....:      15,500,
+ RECORDS PROCESSED....:      16,0,
+ RECORDS PROCESSED....:      16,500,
+ RECORDS PROCESSED....:      17,0,
+ RECORDS PROCESSED....:      17,500,
+ RECORDS PROCESSED....:      18,0,
+ RECORDS PROCESSED....:      18,500,
+ RECORDS PROCESSED....:      19,0,
+ RECORDS PROCESSED....:      19,500,
+ RECORDS PROCESSED....:      20,0,
+ RECORDS PROCESSED....:      20,500,
+ RECORDS PROCESSED....:      21,0,
+ RECORDS PROCESSED....:      21,500,
+ RECORDS PROCESSED....:      22,0,
+ RECORDS PROCESSED....:      22,500,
+ RECORDS PROCESSED....:      23,0,
+ RECORDS PROCESSED....:      23,500,
+ RECORDS PROCESSED....:      24,0,
+ RECORDS PROCESSED....:      24,500,
+ RECORDS PROCESSED....:      25,0,
+ RECORDS PROCESSED....:      25,500,
+ RECORDS PROCESSED....:      26,0,
+ RECORDS PROCESSED....:      26,500,
+ RECORDS PROCESSED....:      27,0,
+ RECORDS PROCESSED....:      27,500,
+ RECORDS PROCESSED....:      28,0,
+ RECORDS PROCESSED....:      28,500,
+ RECORDS PROCESSED....:      29,0,
+ RECORDS PROCESSED....:      29,500,
+ RECORDS PROCESSED....:      30,0,
+ RECORDS PROCESSED....:      30,500,
+ RECORDS PROCESSED....:      31,0,
+ RECORDS PROCESSED....:      31,500,
+ RECORDS PROCESSED....:      32,0,
+ RECORDS PROCESSED....:      32,500,
+ RECORDS PROCESSED....:      33,0,
+ RECORDS PROCESSED....:      33,500,
+ RECORDS PROCESSED....:      34,0,
+ RECORDS PROCESSED....:      34,500,
+ RECORDS PROCESSED....:      35,0,
+ RECORDS PROCESSED....:      35,500,
+ RECORDS PROCESSED....:      36,0,
+ RECORDS PROCESSED....:      36,500,
+ RECORDS PROCESSED....:      37,0,
+ RECORDS PROCESSED....:      37,500,
+ RECORDS PROCESSED....:      38,0,
+ RECORDS PROCESSED....:      38,500,
+ RECORDS PROCESSED....:      39,0,
+ RECORDS PROCESSED....:      39,500,
+ TOTAL RECORDS READ..........:,39715,
+ TOTAL RECORDS WRITTEN.......:,39584,
+ TOTAL RECORDS READ.......:,156,
+ TOTAL RECORDS WRITTEN....:,156,
+ TOTAL RECORDS READ         :,21314,
+ TOTAL INPUT SE RECORDS READ:,21314,
+ TOTAL INPUT IT RECORDS READ:,0,
+ TOTAL RECORDS WRITTEN TO OUTPUT FILE1 :,21314,
+NUMBER OF RECORDS PROCESSED WAS,213,
+ RECORDS READ               =,21314,
+ RECORDS READ.......   =,39549,
+
+DATA FROM JOB:,RCK050,JOBNO:,JOB18489 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.08.07                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,1.9,
+ RECORDS READ               =,4013,
+
+DATA FROM JOB:,RCK080,JOBNO:,JOB15695 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.30.03                                                                                  
+TOTAL TCB CPU TIME=,0.13,
+TOTAL ELAPSED TIME=,0.7,
+NUMBER OF RECORDS PROCESSED WAS,1,
+RECR_VAL                                     
+ RECORDS READ        =,4524,
+ RECORDS WRITTEN     =,4014,
+ DTS RECORDS WRITTEN =,1,
+ AP  RECORDS WRITTEN =,1,
+NUMBER OF RECORDS PROCESSED WAS,401,
+
+DATA FROM JOB:,RVK020,JOBNO:,JOB31950 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,06.22.10                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.3,
+
+DATA FROM JOB:,SUK041,JOBNO:,JOB17428 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,23.00.06                                                                                  
+TOTAL TCB CPU TIME=,0.24,
+TOTAL ELAPSED TIME=,4.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ TOTAL RECORDS WRITTEN..:,45,
+ TOTAL RECORDS READ.:,45,
+NUMBER OF RECORDS PROCESSED WAS,825,
+ TOTAL RECORDS READ     =,825,
+ TRIP RECORDS WRITTEN....:,0,
+    SUKUT185 RECORDS READ:,              ,
+INPUT RECORDS READ      =,122,
+ TOTAL RECORDS READ         :,3922,
+ TOTAL INPUT SE RECORDS READ:,3922,
+ TOTAL INPUT IT RECORDS READ:,0,
+ TOTAL RECORDS WRITTEN TO OUTPUT FILE1 :,3922,
+NUMBER OF RECORDS PROCESSED WAS,392,
+ RECORDS READ               =,3922,
+ TOTAL RECORDS READ    =,42,
+NUMBER OF RECORDS READ IS:,122,
+NUMBER OF RECORDS WRITTEN IS:,122,
+
+DATA FROM JOB:,SUK060,JOBNO:,JOB22251 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.41.21                                                                                  
+TOTAL TCB CPU TIME=,0.76,
+TOTAL ELAPSED TIME=,10.8,
+ TOTAL RECORDS READ          :,15131,
+ TOTAL RECORDS READ.:,5,
+ TOTAL RECORDS READ...:,45405,
+ TOTAL RECORDS WRITTEN:,45405,
+ TOTAL RECORDS READ        =,1,
+ TOTAL RECORDS WRITTEN     =,6968,
+ TOTAL RECORDS READ...:,46931,
+ TOTAL RECORDS WRITTEN:,53899,
+ IT RECORDS READ......:,46931,
+ SE RECORDS READ......:,6968,
+ TOTAL RECORDS READ...:,53899,
+ TOTAL RECORDS WRITTEN:,53899,
+ TOTAL RECORDS READ.:,1,
+ TOTAL RECORDS READ.:,1,
+ TOTAL RECORDS READ         :,53899,
+ TOTAL INPUT SE RECORDS READ:,6968,
+ TOTAL INPUT IT RECORDS READ:,46931,
+ TOTAL RECORDS WRITTEN TO OUTPUT FILE1 :,53899,
+NUMBER OF RECORDS PROCESSED WAS,538,
+ RECORDS READ               =,53899,
+ TOTAL RECORDS READ              6           
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,SUK900,JOBNO:,JOB19986 ,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,12.20.41                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+RECR_VAL                                     
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,SUK905,JOBNO:,JOB22335 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.48.34                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ RECORDS READ    =,36,
+ RECORDS WRITTEN =,36,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,SUK910,JOBNO:,JOB22334 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.48.32                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ RECORDS READ    =,36,
+ RECORDS WRITTEN =,36,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,SUK915,JOBNO:,JOB22342 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.48.53                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ RECORDS READ    =,18,
+ RECORDS WRITTEN =,19,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,SUK930,JOBNO:,JOB15050 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,06.58.52                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,SUK970,JOBNO:,JOB25216 ,
+EXECUTED ON DATE:,TUESDAY,  26 JUN 2018,AT :,10.19.52                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,TRK320,JOBNO:,JOB21634 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,05.00.09                                                                                  
+TOTAL TCB CPU TIME=,1.06,
+TOTAL ELAPSED TIME=,3.6,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,VLK021,JOBNO:,JOB15501 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.06.14                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,VLK022,JOBNO:,JOB18474 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.06.58                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,0.6,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ HEADER RECORDS WRITTEN =,==>000000284       ,
+ DETAIL RECORDS WRITTEN =,==>000004524       ,
+ ASN XREF RECORDS WRITTEN =,==>000000284     ,
+NUMBER OF RECORDS PROCESSED WAS,3,
+NUMBER OF RECORDS PROCESSED WAS,284,
+NUMBER OF RECORDS PROCESSED WAS,452,
+NUMBER OF RECORDS PROCESSED WAS,284,
+NUMBER OF RECORDS PROCESSED WAS,284,
+
+DATA FROM JOB:,VLK023,JOBNO:,JOB15759 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.32.23                                                                                  
+TOTAL TCB CPU TIME=,0.82,
+TOTAL ELAPSED TIME=,1.9,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,16,
+ ASN HEADER RECORDS READ    =,==>000003497   ,
+ ASN HEADER RECORDS WRITTEN =,==>000001616   ,
+ ASN DETAIL RECORDS WRITTEN =,==>000536701   ,
+NUMBER OF RECORDS PROCESSED WAS,2,
+NUMBER OF RECORDS PROCESSED WAS,161,
+NUMBER OF RECORDS PROCESSED WAS,536,
+NUMBER OF RECORDS PROCESSED WAS,349,
+NUMBER OF RECORDS PROCESSED WAS,30,
+
+DATA FROM JOB:,APK002,JOBNO:,JOB21246 ,
+EXECUTED ON DATE:,FRIDAY,13 JUL 2018,AT :,14.00.18                                                                                  
+TOTAL TCB CPU TIME=,0.39,
+TOTAL ELAPSED TIME=,3,
+
+DATA FROM JOB:,APK021,JOBNO:,JOB36731 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,14.00.29                                                                                  
+TOTAL TCB CPU TIME=,8.17,
+TOTAL ELAPSED TIME=,47.2,
+ TOTAL RECEIVE  RECORDS READ    =,100009,
+ TOTAL RECDIS ROWS FETCHED      =,23007759,
+ TOTAL NINRECS ROWS FETCHED     =,47223,
+
+DATA FROM JOB:,APK023,JOBNO:,JOB37224 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,14.53.07                                                                                  
+TOTAL TCB CPU TIME=,0.94,
+TOTAL ELAPSED TIME=,3,
+NUMBER OF RECORDS PROCESSED WAS,359,
+
+DATA FROM JOB:,APK025,JOBNO:,JOB37187 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,14.47.47                                                                                  
+TOTAL TCB CPU TIME=,1.83,
+TOTAL ELAPSED TIME=,5.2,
+ TOTAL INVOICE  RECORDS READ    =,98016,
+ TOTAL INVOICE  RECORDS READ    =,128929,
+ TOTAL AP021 RECORDS READ  =,9881651,
+ TOTAL INVOICES RECORDS READ    =,226946,
+ TOTAL RECEIPTS RECORDS READ    =,35165,
+ TOTAL INVOICES RECORDS READ    =,222507,
+ TOTAL RECEIPTS RECORDS READ    =,30726,
+ TOTAL INVOICE  RECORDS READ    =,98016,
+ TOTAL AP024 RECORDS READ       =,23154991,
+ TOTAL INVOICE  RECORDS READ    =,128929,
+ TOTAL AP024 RECORDS READ       =,147231,
+NUMBER OF RECORDS PROCESSED WAS,226,
+NUMBER OF RECORDS PROCESSED WAS,351,
+NUMBER OF RECORDS PROCESSED WAS,307,
+NUMBER OF RECORDS PROCESSED WAS,22,
+
+DATA FROM JOB:,APK026,JOBNO:,JOB36732 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,14.00.29                                                                                  
+TOTAL TCB CPU TIME=,1.33,
+TOTAL ELAPSED TIME=,7.3,
+
+DATA FROM JOB:,APK037,JOBNO:,JOB37306 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,15.00.30                                                                                  
+TOTAL TCB CPU TIME=,4.3,
+TOTAL ELAPSED TIME=,11,
+ NBR OF AP045 RECORDS READ     =,3471878,
+ NBR OF HEADER RECORDS WRITTEN =,8665,
+ NBR OF DETAIL RECORDS WRITTEN =,3336003,
+ NBR OF AP045 RECORDS WRITTEN  =,3344668,
+ HEADER RECORDS READ  =,8665,
+ DETAIL RECORDS READ  =,3336003,
+ TOTAL  RECORDS READ  =,3344668,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ TOTAL AP045 RECORDS READ =,1,
+ TOTAL WSA12 RECORDS WRITTEN =,1,
+
+DATA FROM JOB:,APK050,JOBNO:,JOB00720 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,20.44.22                                                                                  
+TOTAL TCB CPU TIME=,0.87,
+TOTAL ELAPSED TIME=,3.5,
+ OTP ROWS FETCHED         =,1581298,
+ INPUT  RECORDS READ       =,1581298,
+ OUTPUT RECORDS WRITTEN    =,1581298,
+
+DATA FROM JOB:,APK057,JOBNO:,JOB00710 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,20.42.38                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ UNPOST ROWS FETCHED   =,8,
+ TOTAL OUT01 RECORDS WRITTEN =,8,
+
+DATA FROM JOB:,APK060,JOBNO:,JOB02978 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,00.52.03                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,0.8,
+ OTPINPUT RECORDS READ   =,3159,
+ OTPINPUT RECORDS READ   =,403,
+ OTPINPUT RECORDS READ   =,7681,
+NUMBER OF RECORDS PROCESSED WAS,20,
+NUMBER OF RECORDS PROCESSED WAS,10,
+NUMBER OF RECORDS PROCESSED WAS,63,
+NUMBER OF RECORDS PROCESSED WAS,11,
+
+DATA FROM JOB:,APK064,JOBNO:,JOB02980 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,00.53.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ ** TOTAL RECORDS READ    =,104,
+ TOTAL RECORDS READ    = ,104,
+
+DATA FROM JOB:,APK067,JOBNO:,JOB00729 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,20.47.55                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,12.6,
+ RECORDS PROCESSED = 00000000  ,         ,
+ RECORDS PROCESSED = 00000000  ,         ,
+ RECORDS PROCESSED = 00000000  ,         ,
+ RECORDS PROCESSED  = 00000008 ,         ,
+NUMBER OF RECORDS PROCESSED WAS,9,
+ RECORDS PROCESSED  = 00000000 ,         ,
+ RECORDS PROCESSED = 00000000  ,         ,
+ RECORDS PROCESSED = 00000000  ,         ,
+NUMBER OF RECORDS PROCESSED WAS,2,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,APK068,JOBNO:,JOB02983 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,00.53.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,APK100,JOBNO:,JOB28353 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.10.59                                                                                  
+TOTAL TCB CPU TIME=,0.28,
+TOTAL ELAPSED TIME=,1.4,
+ CHECK RECORDS READ     000210500            
+ CHECK RECORDS READ     000210500            
+NUMBER OF RECORDS PROCESSED WAS,582,
+
+DATA FROM JOB:,APK110,JOBNO:,JOB28367 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.12.29                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,1.1,
+ CHECK RECORDS READ     000006300            
+ CHECK RECORDS READ     000006300            
+
+DATA FROM JOB:,APK120,JOBNO:,JOB28366 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.12.29                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.9,
+ ** TOTAL RECORDS READ    =,1370,
+ TOTAL RECORDS READ    = ,1370,
+NUMBER OF RECORDS PROCESSED WAS,136,
+
+DATA FROM JOB:,APK121,JOBNO:,JOB28381 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.13.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+ TOTAL INVOICE  RECORDS READ    =,24815,
+NUMBER OF RECORDS PROCESSED WAS,248,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,APK122,JOBNO:,JOB28384 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.13.48                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+ RECORDS READ    =,23352,
+ RECORDS WRITTEN =,22976,
+ RECORDS READ    =,2949,
+ RECORDS WRITTEN =,46,
+ RECORDS READ    =,7,
+ RECORDS WRITTEN =,216,
+
+DATA FROM JOB:,APK124,JOBNO:,JOB28382 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.13.39                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,215,
+
+DATA FROM JOB:,APK125,JOBNO:,JOB35652 ,
+EXECUTED ON DATE:,THURSDAY, 12 JUL 2018,AT :,07.19.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,APK126,JOBNO:,JOB28383 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,21.13.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,275,
+
+DATA FROM JOB:,GLK525,JOBNO:,JOB26281 ,
+EXECUTED ON DATE:,SATURDAY, 16 JUN 2018,AT :,00.32.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,3.7,
+NUMBER OF RECORDS PROCESSED WAS,2,
+ ACCOUNT RECORDS WRITTEN     =,1429,
+ DEPARTMENT RECORDS WRITTEN =,1252,
+ ACTUALS RECORDS WRITTEN =,0,
+ PLAN RECORDS WRITTEN =,0,
+ ACCOUNT HIERARCHY RECORDS WRITTEN =,5689,
+ PRODUCT RECORDS WRITTEN =,10976,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,142,
+NUMBER OF RECORDS PROCESSED WAS,125,
+NUMBER OF RECORDS PROCESSED WAS,568,
+NUMBER OF RECORDS PROCESSED WAS,109,
+
+DATA FROM JOB:,GLK526,JOBNO:,JOB30519 ,
+EXECUTED ON DATE:,FRIDAY,18 MAY 2018,AT :,23.54.37                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ TOTAL GL EXTRACT RECORDS READ =,15315,
+NUMBER OF RECORDS PROCESSED WAS,124,
+
+DATA FROM JOB:,GLK999,JOBNO:,JOB17864 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,23.28.08                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,GLK530,JOBNO:,JOB12529 ,
+EXECUTED ON DATE:,MONDAY,09 JUL 2018,AT :,04.01.19                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,4,
+NUMBER OF RECORDS PROCESSED WAS,4,
+
+DATA FROM JOB:,GLK125,JOBNO:,JOB29335 ,
+EXECUTED ON DATE:,SATURDAY, 14 JUL 2018,AT :,01.31.19                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,2,
+NUMBER OF RECORDS PROCESSED WAS,2,
+
+DATA FROM JOB:,RBK005,JOBNO:,JOB18785 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.30.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,22,
+
+DATA FROM JOB:,RBK010,JOBNO:,JOB15419 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,RBK015,JOBNO:,JOB15397 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.00.49                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RBK020,JOBNO:,JOB15415 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.24                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,31,
+NUMBER OF RECORDS PROCESSED WAS,31,
+
+DATA FROM JOB:,RBK025,JOBNO:,JOB15405 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,2,
+
+DATA FROM JOB:,RBK035,JOBNO:,JOB15437 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.48                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,11,
+
+DATA FROM JOB:,RBK040,JOBNO:,JOB15439 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.50                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,120,
+NUMBER OF RECORDS PROCESSED WAS,121,
+
+DATA FROM JOB:,RBK045,JOBNO:,JOB15431 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.48                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,30,
+NUMBER OF RECORDS PROCESSED WAS,31,
+
+DATA FROM JOB:,RBK050,JOBNO:,JOB15433 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.48                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,200,
+NUMBER OF RECORDS PROCESSED WAS,201,
+
+DATA FROM JOB:,RBK055,JOBNO:,JOB15435 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.48                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,14,
+NUMBER OF RECORDS PROCESSED WAS,15,
+
+DATA FROM JOB:,RBK060,JOBNO:,JOB15447 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.02.10                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,14,
+NUMBER OF RECORDS PROCESSED WAS,15,
+
+DATA FROM JOB:,RBK062,JOBNO:,JOB15407 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RBK065,JOBNO:,JOB15327 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.00.07                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RBK069,JOBNO:,JOB15413 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.18                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,23,
+NUMBER OF RECORDS PROCESSED WAS,23,
+
+DATA FROM JOB:,RBK071,JOBNO:,JOB15421 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.37                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RBK073,JOBNO:,JOB15422 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.36                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RBK075,JOBNO:,JOB15424 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.37                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RBK077,JOBNO:,JOB15423 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.37                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RBK079,JOBNO:,JOB15425 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.37                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,RBK081,JOBNO:,JOB15426 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,20.01.37                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,SAK000,JOBNO:,JOB18496 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.08.47                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+
+DATA FROM JOB:,SAK007,JOBNO:,JOB18508 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.00                                                                                  
+TOTAL TCB CPU TIME=,3.77,
+TOTAL ELAPSED TIME=,6.1,
+NUMBER OF RECORDS PROCESSED WAS,778,
+NUMBER OF RECORDS PROCESSED WAS,58,
+NUMBER OF RECORDS PROCESSED WAS,778,
+NUMBER OF RECORDS PROCESSED WAS,58,
+NUMBER OF RECORDS PROCESSED WAS,778,
+NUMBER OF RECORDS PROCESSED WAS,778,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,SAK008,JOBNO:,JOB18509 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.00                                                                                  
+TOTAL TCB CPU TIME=,1.73,
+TOTAL ELAPSED TIME=,3.3,
+
+DATA FROM JOB:,SAK040,JOBNO:,JOB18517 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.01                                                                                  
+TOTAL TCB CPU TIME=,2.85,
+TOTAL ELAPSED TIME=,4.3,
+ ** TOTALINPUT RECORDS READ......... =,4345972,
+ TOTALINPUT RECORDS READ,........=4345972   ,
+ ** MERCHANDISE RECORDS WRITTEN...... =,4323356,
+ ** TAX RECORDS WRITTEN.............. =,1296,
+ ** TOTAL SALES EXTRACT RECORDS WRITTEN.... =,4338752,
+ ** TOTAL CORRECTION RECORDS WRITTEN.......=,0,
+NUMBER OF RECORDS PROCESSED WAS,433,
+NUMBER OF RECORDS PROCESSED WAS,433,
+NUMBER OF RECORDS PROCESSED WAS,432,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,SAK041,JOBNO:,JOB18587 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.13.26                                                                                  
+TOTAL TCB CPU TIME=,2.91,
+TOTAL ELAPSED TIME=,5.8,
+ ** TOTALINPUT RECORDS READ......... =,4345972,
+ TOTALINPUT RECORDS READ,........=4345972   ,
+ ** MERCHANDISE RECORDS WRITTEN...... =,4323356,
+ ** TAX RECORDS WRITTEN.............. =,1296,
+ ** TOTAL SALES EXTRACT RECORDS WRITTEN.... =,4338752,
+ ** TOTAL CORRECTION RECORDS WRITTEN.......=,0,
+NUMBER OF RECORDS PROCESSED WAS,433,
+NUMBER OF RECORDS PROCESSED WAS,433,
+
+DATA FROM JOB:,SAK045,JOBNO:,JOB18678 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.20.56                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,129,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,129,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,129,
+NUMBER OF RECORDS PROCESSED WAS,129,
+NUMBER OF RECORDS PROCESSED WAS,0,
+
+DATA FROM JOB:,SAK051,JOBNO:,JOB18520 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.02                                                                                  
+TOTAL TCB CPU TIME=,1.32,
+TOTAL ELAPSED TIME=,14.9,
+ RECORDS READ    =,19073,
+ RECORDS WRITTEN =,19073,
+ RECORDS READ   =,19073,
+ ESTORE CURSOR ROWS FETCHED =,9,
+ SUM CURSOR ROWS FETCHED    =,82,
+ RECORDS READ    =,270,
+ RECORDS WRITTEN =,270,
+ RECORDS READ  =,270,
+ RECORDS READ    =,43161,
+ RECORDS WRITTEN =,43161,
+ RECORDS READ   =,43161,
+
+DATA FROM JOB:,SAK053,JOBNO:,JOB18577 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.12.27                                                                                  
+TOTAL TCB CPU TIME=,1.86,
+TOTAL ELAPSED TIME=,5.4,
+
+DATA FROM JOB:,SAK054,JOBNO:,JOB18632 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.17.56                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,1,
+
+DATA FROM JOB:,SAK453,JOBNO:,JOB18525 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.09.03                                                                                  
+TOTAL TCB CPU TIME=,0.07,
+TOTAL ELAPSED TIME=,0.3,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,2,
+NUMBER OF RECORDS PROCESSED WAS,2,
+
+DATA FROM JOB:,SAK455,JOBNO:,JOB18576 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,00.12.22                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,TCK093,JOBNO:,JOB15885 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,21.00.06                                                                                  
+TOTAL TCB CPU TIME=,0.27,
+TOTAL ELAPSED TIME=,1,
+ RECORDS READ:,                          ,
+ RECORDS WRITTEN TO AJB FILE:,0,
+ RECORDS WRITTEN TO BANK FILE:,150620,
+
+DATA FROM JOB:,XFK006,JOBNO:,JOB16525 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,22.07.04                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+
+DATA FROM JOB:,MLK107A,JOBNO:,JOB05435,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,04.35.38                                                                                  
+TOTAL TCB CPU TIME=,0.02,
+TOTAL ELAPSED TIME=,0.9,
+                                             
+DATA FROM JOB:,MLK107B,JOBNO:,JOB06558,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,06.38.06                                                                                  
+TOTAL TCB CPU TIME=,0.96,
+TOTAL ELAPSED TIME=,15,
+                                             
+DATA FROM JOB:,MLK107C,JOBNO:,JOB06383,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,06.16.17                                                                                  
+TOTAL TCB CPU TIME=,0.82,
+TOTAL ELAPSED TIME=,14.1,
+                                             
+DATA FROM JOB:,MLK107D,JOBNO:,JOB05413,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,04.33.30                                                                                  
+TOTAL TCB CPU TIME=,0.01,
+TOTAL ELAPSED TIME=,0.5,
+                                             
+DATA FROM JOB:,MLK107F,JOBNO:,JOB05978,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,05.34.39                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+                                             
+DATA FROM JOB:,ARK546,JOBNO:,JOB39429 ,
+EXECUTED ON DATE:,SUNDAY,01 JUL 2018,AT :,07.37.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+                                             
+DATA FROM JOB:,ARK547,JOBNO:,JOB39432 ,
+EXECUTED ON DATE:,SUNDAY,01 JUL 2018,AT :,07.37.07                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.5,
+                                             
+DATA FROM JOB:,ARK548,JOBNO:,JOB39430 ,
+EXECUTED ON DATE:,SUNDAY,01 JUL 2018,AT :,07.37.07                                                                                  
+TOTAL TCB CPU TIME=,0.16,
+TOTAL ELAPSED TIME=,0.6,
+                                             
+DATA FROM JOB:,ARK550,JOBNO:,JOB39431 ,
+EXECUTED ON DATE:,SUNDAY,01 JUL 2018,AT :,07.37.07                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,0.1,
+                                             
+DATA FROM JOB:,ARK551,JOBNO:,JOB36998 ,
+EXECUTED ON DATE:,SUNDAY,01 JUL 2018,AT :,03.34.52                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+                                             
+DATA FROM JOB:,ARK600,JOBNO:,JOB22411 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.00.02                                                                                  
+TOTAL TCB CPU TIME=,0.14,
+TOTAL ELAPSED TIME=,5.7,
+                                             
+DATA FROM JOB:,ARK601,JOBNO:,JOB30341 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,15.00.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+                                             
+DATA FROM JOB:,ARK603,JOBNO:,JOB01654 ,
+EXECUTED ON DATE:,TUESDAY,  17 JUL 2018,AT :,05.11.28                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+                                             
+DATA FROM JOB:,DFK000,JOBNO:,JOB38957 ,
+EXECUTED ON DATE:,TUESDAY,  17 JUL 2018,AT :,02.38.16                                                                                  
+TOTAL TCB CPU TIME=,0.3,
+TOTAL ELAPSED TIME=,3.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ RECORDS READ    =,407427,
+ RECORDS WRITTEN =,407427,
+ RECORDS READ   =,407427,
+                                             
+DATA FROM JOB:,DFK040,JOBNO:,JOB39337 ,
+EXECUTED ON DATE:,TUESDAY,  17 JUL 2018,AT :,02.48.51                                                                                  
+TOTAL TCB CPU TIME=,0.96,
+TOTAL ELAPSED TIME=,1.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+ RECORDS READ     00003761983                
+                                             
+DATA FROM JOB:,GLK016,JOBNO:,JOB39404 ,
+EXECUTED ON DATE:,TUESDAY,  17 JUL 2018,AT :,02.51.13                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,292,
+                                             
+DATA FROM JOB:,GLK020,JOBNO:,JOB25284 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,09.00.13                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,78,
+NUMBER OF RECORDS PROCESSED WAS,40,
+                                             
+DATA FROM JOB:,GLK021,JOBNO:,JOB26303 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,10.00.16                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,239,
+                                             
+DATA FROM JOB:,GLK041,JOBNO:,JOB34909 ,
+EXECUTED ON DATE:,THURSDAY, 12 JUL 2018,AT :,06.30.02                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,124,
+NUMBER OF RECORDS PROCESSED WAS,124,
+                                             
+DATA FROM JOB:,GLK046,JOBNO:,JOB35844 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,21.02.59                                                                                  
+TOTAL TCB CPU TIME=,0.16,
+TOTAL ELAPSED TIME=,1.8,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,106,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,145,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,321,
+NUMBER OF RECORDS PROCESSED WAS,145,
+NUMBER OF RECORDS PROCESSED WAS,134,
+NUMBER OF RECORDS PROCESSED WAS,408,
+NUMBER OF RECORDS PROCESSED WAS,213,
+NUMBER OF RECORDS PROCESSED WAS,22,
+NUMBER OF RECORDS PROCESSED WAS,158,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,557,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK055,JOBNO:,JOB22422 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,06.00.04                                                                                  
+TOTAL TCB CPU TIME=,0.05,
+TOTAL ELAPSED TIME=,0.5,
+                                             
+DATA FROM JOB:,GLK085,JOBNO:,JOB31645 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,16.22.50                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK086,JOBNO:,JOB37565 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,23.26.03                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK200,JOBNO:,JOB04372 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,02.40.27                                                                                  
+TOTAL TCB CPU TIME=,6.36,
+TOTAL ELAPSED TIME=,47.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK225,JOBNO:,JOB35798 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,21.01.25                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK230,JOBNO:,JOB35836 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,21.02.25                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK235,JOBNO:,JOB35839 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,21.02.44                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK239,JOBNO:,JOB27339 ,
+EXECUTED ON DATE:,MONDAY,18 JUN 2018,AT :,12.13.47                                                                                  
+TOTAL TCB CPU TIME=,0.03,
+TOTAL ELAPSED TIME=,3.5,
+NUMBER OF RECORDS PROCESSED WAS,102,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,5,
+NUMBER OF RECORDS PROCESSED WAS,12,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,12,
+NUMBER OF RECORDS PROCESSED WAS,12,
+NUMBER OF RECORDS PROCESSED WAS,206,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK240,JOBNO:,JOB37143 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,22.45.43                                                                                  
+TOTAL TCB CPU TIME=,3.12,
+TOTAL ELAPSED TIME=,6.9,
+NUMBER OF RECORDS PROCESSED WAS,0,
+NUMBER OF RECORDS PROCESSED WAS,107,
+                                             
+DATA FROM JOB:,GLK241,JOBNO:,JOB37766 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,23.57.49                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.6,
+NUMBER OF RECORDS PROCESSED WAS,0,
+                                             
+DATA FROM JOB:,GLK242,JOBNO:,JOB39220 ,
+EXECUTED ON DATE:,TUESDAY,  17 JUL 2018,AT :,02.47.29                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+                                             
+DATA FROM JOB:,GLK247,JOBNO:,JOB27263 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,19.30.04                                                                                  
+TOTAL TCB CPU TIME=,0.38,
+TOTAL ELAPSED TIME=,1.9,
+ **NUMBER OF DEPT DIST RECORDS READ     =,1448,
+NUMBER OF DEPT DIST RECO,DSREAD=000014      ,
+ **NUMBER OF LP   DIST RECORDS READ     =,113,
+NUMBER OF LP   DIST RECO,DSREAD=000001      ,
+ **NUMBER OF PRESTR    RECORDS READ     =,29,
+NUMBER OF PRESTR    RECO,DSREAD=000000      ,
+ **NUMBER OF PROD      RECORDS READ     =,250,
+NUMBER OF PROD      RECO,DSREAD=000002      ,
+ **NUMBER OF REGN      RECORDS READ     =,22,
+NUMBER OF REGN      RECO,DSREAD=000000      ,
+ **NUMBER OF TERR      RECORDS READ     =,8,
+NUMBER OF TERR      RECO,DSREAD=000000      ,
+ **NUMBER OF PYRL-ACCT RECORDS READ     =,6510,
+NUMBER OF PYRL-ACCT RECO,DSREAD=000065      ,
+ **NUMBER OF ACCT-DEPT RECORDS READ     =,2676,
+NUMBER OF ACCT-DEPT RECO,DSREAD=000026      ,
+NUMBER OF RECORDS PROCESSED WAS,337,
+NUMBER OF RECORDS PROCESSED WAS,336,
+                                             
+DATA FROM JOB:,GLK248,JOBNO:,JOB06668 ,
+EXECUTED ON DATE:,TUESDAY,  10 JUL 2018,AT :,19.35.01                                                                                  
+TOTAL TCB CPU TIME=,3.02,
+TOTAL ELAPSED TIME=,3.9,
+ **NUMBER OF DEPT DIST RECORDS READ     =,1448,
+NUMBER OF DEPT DIST RECO,DSREAD=000014      ,
+ **NUMBER OF LP   DIST RECORDS READ     =,113,
+NUMBER OF LP   DIST RECO,DSREAD=000001      ,
+ **NUMBER OF PRESTR    RECORDS READ     =,29,
+NUMBER OF PRESTR    RECO,DSREAD=000000      ,
+ **NUMBER OF PROD      RECORDS READ     =,250,
+NUMBER OF PROD      RECO,DSREAD=000002      ,
+ **NUMBER OF REGN      RECORDS READ     =,22,
+NUMBER OF REGN      RECO,DSREAD=000000      ,
+ **NUMBER OF TERR      RECORDS READ     =,8,
+NUMBER OF TERR      RECO,DSREAD=000000      ,
+ **NUMBER OF PYRL-ACCT RECORDS READ     =,6510,
+NUMBER OF PYRL-ACCT RECO,DSREAD=000065      ,
+ **NUMBER OF ACCT-DEPT RECORDS READ     =,2676,
+NUMBER OF ACCT-DEPT RECO,DSREAD=000026      ,
+NUMBER OF RECORDS PROCESSED WAS,344,
+NUMBER OF RECORDS PROCESSED WAS,306,
+                                             
+DATA FROM JOB:,GLK257,JOBNO:,JOB03494 ,
+EXECUTED ON DATE:,TUESDAY,  10 JUL 2018,AT :,15.36.33                                                                                  
+TOTAL TCB CPU TIME=,0.04,
+TOTAL ELAPSED TIME=,0.5,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK258,JOBNO:,JOB17657 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,23.05.53                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK259,JOBNO:,JOB07634 ,
+EXECUTED ON DATE:,SUNDAY,15 JUL 2018,AT :,08.05.06                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.1,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK285,JOBNO:,JOB34104 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,19.02.53                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,0,
+                                             
+DATA FROM JOB:,GLK286,JOBNO:,JOB35277 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,20.20.11                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,198,
+NUMBER OF RECORDS PROCESSED WAS,0,
+                                             
+DATA FROM JOB:,GLK287,JOBNO:,JOB28111 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,20.56.40                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,0,
+                                             
+DATA FROM JOB:,GLK307,JOBNO:,JOB35934 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,21.11.20                                                                                  
+TOTAL TCB CPU TIME=,0.73,
+TOTAL ELAPSED TIME=,85.9,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,544,
+                                             
+DATA FROM JOB:,GLK309,JOBNO:,JOB37199 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,22.52.38                                                                                  
+TOTAL TCB CPU TIME=,0.72,
+TOTAL ELAPSED TIME=,53,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,544,
+                                             
+DATA FROM JOB:,GLK311,JOBNO:,JOB38831 ,
+EXECUTED ON DATE:,TUESDAY,  17 JUL 2018,AT :,02.37.33                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0.2,
+NUMBER OF RECORDS PROCESSED WAS,1,
+NUMBER OF RECORDS PROCESSED WAS,10,
+                                             
+DATA FROM JOB:,GLK433,JOBNO:,JOB35272 ,
+EXECUTED ON DATE:,MONDAY,16 JUL 2018,AT :,20.20.02                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+                                             
+DATA FROM JOB:,GLK435,JOBNO:,JOB28060 ,
+EXECUTED ON DATE:,WEDNESDAY,11 JUL 2018,AT :,20.55.35                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
+NUMBER OF RECORDS PROCESSED WAS,1,
+                                             
+DATA FROM JOB:,GLK501,JOBNO:,JOB30946 ,
+EXECUTED ON DATE:,SATURDAY, 16 JUN 2018,AT :,07.00.28                                                                                  
+TOTAL TCB CPU TIME=,0,
+TOTAL ELAPSED TIME=,0,
